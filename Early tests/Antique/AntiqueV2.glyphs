@@ -2,7 +2,7 @@
 .appVersion = "3343";
 DisplayStrings = (
 "Alan/space Play\012Mashallah\012Rosa/space Marina\012HElmanKJGFZ\012QUARTZ\012KALIEFRIEND",
-"Ranpifert\012Ranpifert"
+"Ranpifert\012Ranpifert/space/space/space/space/space"
 );
 customParameters = (
 {
@@ -4689,7 +4689,7 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2025-05-29 16:40:57 +0000";
+lastChange = "2025-06-02 18:33:32 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -4717,11 +4717,10 @@ nodes = (
 "229 28 OFFCURVE",
 "190 50 OFFCURVE",
 "190 150 CURVE SMOOTH",
-"190 576 LINE",
-"152 530 OFFCURVE",
-"101 494 OFFCURVE",
-"50 476 CURVE",
-"50 446 LINE"
+"190 556 LINE",
+"138 556 OFFCURVE",
+"50 490 OFFCURVE",
+"50 446 CURVE"
 );
 }
 );
@@ -4734,30 +4733,29 @@ paths = (
 closed = 1;
 nodes = (
 "25 350 LINE",
-"381 350 LINE",
-"381 500 LINE",
-"234 500 LINE"
+"379 350 LINE",
+"379 500 LINE",
+"281 500 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"95 375 LINE",
-"95 160 LINE SMOOTH",
-"95 58 OFFCURVE",
-"144 -9 OFFCURVE",
-"243 -9 CURVE SMOOTH",
+"83 375 LINE",
+"83 160 LINE SMOOTH",
+"83 58 OFFCURVE",
+"134 -9 OFFCURVE",
+"236 -9 CURVE SMOOTH",
 "318 -9 OFFCURVE",
-"369 26 OFFCURVE",
-"369 147 CURVE",
-"294 114 OFFCURVE",
-"261 140 OFFCURVE",
-"261 202 CURVE SMOOTH",
-"261 610 LINE",
-"203 531 OFFCURVE",
-"117 479 OFFCURVE",
-"25 465 CURVE",
-"25 350 LINE"
+"379 36 OFFCURVE",
+"379 157 CURVE",
+"330 134 OFFCURVE",
+"299 150 OFFCURVE",
+"299 192 CURVE SMOOTH",
+"299 590 LINE",
+"164 590 OFFCURVE",
+"25 489 OFFCURVE",
+"25 350 CURVE"
 );
 }
 );
