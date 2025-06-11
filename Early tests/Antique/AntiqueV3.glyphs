@@ -7,7 +7,7 @@ DisplayStrings = (
 "Anna/space Keroulle\012Laure/space Boutmy\012Tiphaine/space Gillet\012Raphael/space Ronot",
 hwxkznnnnnznnn,
 "e`´/circumflex",
-RHKera
+nopu
 );
 customParameters = (
 {
@@ -7142,7 +7142,7 @@ unicode = 0074;
 },
 {
 glyphname = u;
-lastChange = "2025-06-10 21:47:39 +0000";
+lastChange = "2025-06-11 16:40:27 +0000";
 layers = (
 {
 anchors = (
@@ -7168,11 +7168,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"90 500 LINE",
-"90 152 LINE SMOOTH",
-"90 47 OFFCURVE",
-"147 -8 OFFCURVE",
-"235 -10 CURVE SMOOTH",
 "313 -12 OFFCURVE",
 "382 28 OFFCURVE",
 "420 106 CURVE",
@@ -7183,32 +7178,50 @@ nodes = (
 "186 46 OFFCURVE",
 "150 85 OFFCURVE",
 "150 165 CURVE SMOOTH",
-"150 500 LINE"
+"150 500 LINE",
+"90 500 LINE",
+"90 152 LINE SMOOTH",
+"90 47 OFFCURVE",
+"147 -8 OFFCURVE",
+"235 -10 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"396 500 LINE",
-"396 0 LINE",
 "456 0 LINE",
-"456 500 LINE"
+"456 500 LINE",
+"396 500 LINE",
+"396 0 LINE"
 );
 }
 );
 width = 556;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{276, 0}";
+},
+{
+name = ogonek;
+position = "{497, 10}";
+},
+{
+name = top;
+position = "{276, 500}";
+},
+{
+name = topright;
+position = "{532, 500}";
+}
+);
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
 paths = (
 {
 closed = 1;
 nodes = (
-"16 500 LINE",
-"16 202 LINE SMOOTH",
-"16 47 OFFCURVE",
-"74 -10 OFFCURVE",
-"169 -10 CURVE SMOOTH",
 "247 -10 OFFCURVE",
 "304 28 OFFCURVE",
 "332 106 CURVE",
@@ -7219,16 +7232,21 @@ nodes = (
 "246 192 OFFCURVE",
 "232 209 OFFCURVE",
 "232 247 CURVE SMOOTH",
-"232 500 LINE"
+"232 500 LINE",
+"16 500 LINE",
+"16 202 LINE SMOOTH",
+"16 47 OFFCURVE",
+"74 -10 OFFCURVE",
+"169 -10 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"312 500 LINE",
-"312 0 LINE",
 "528 0 LINE",
-"528 500 LINE"
+"528 500 LINE",
+"312 500 LINE",
+"312 0 LINE"
 );
 }
 );
@@ -7341,6 +7359,7 @@ name = u;
 },
 {
 name = gravecomb;
+transform = "{1, 0, 0, 1, 35, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
