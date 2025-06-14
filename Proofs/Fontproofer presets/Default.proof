@@ -1,0 +1,182 @@
+{
+  "fonts" : {
+    "default" : 0,
+    "fontProjects" : [
+      {
+        "familyName" : "Antique Extended",
+        "filePath" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
+        "id" : "2ECBE8C9-9FB8-4846-8596-6DBB83191F63",
+        "type" : "GlyphsFormat3"
+      }
+    ],
+    "slantOrigin" : "halfXHeight",
+    "styles" : [
+      {
+        "active" : true,
+        "fontProjectStyle" : {
+          "active" : true,
+          "id" : "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE",
+          "info" : {
+            "axisValues" : {
+              "wght" : 0
+            },
+            "familyName" : "Antique Extended",
+            "fontSlant" : -0,
+            "styleName" : "Thin",
+            "upm" : 1000,
+            "version" : "1.000",
+            "verticalMetrics" : {
+              "ascender" : 720,
+              "capHeight" : 700,
+              "descender" : -200,
+              "xHeight" : 500
+            }
+          },
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
+          "styleName" : "Thin",
+          "type" : "source"
+        }
+      },
+      {
+        "active" : true,
+        "fontProjectStyle" : {
+          "active" : true,
+          "id" : "9AAC875F-C762-4CF2-B869-DEC24B68ECF1",
+          "info" : {
+            "axisValues" : {
+              "wght" : 450
+            },
+            "familyName" : "Antique Extended",
+            "fontSlant" : -0,
+            "fontWeight" : 400,
+            "fontWidth" : 5,
+            "styleName" : "Medium",
+            "upm" : 1000,
+            "version" : "1.000",
+            "verticalMetrics" : {
+              "ascender" : 720,
+              "capHeight" : 700,
+              "descender" : -200,
+              "xHeight" : 500
+            }
+          },
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
+          "styleName" : "Medium",
+          "type" : "staticInstance"
+        }
+      },
+      {
+        "active" : true,
+        "fontProjectStyle" : {
+          "active" : true,
+          "id" : "83B83716-1CD1-47ED-B715-8773FED73F88",
+          "info" : {
+            "axisValues" : {
+              "wght" : 1000
+            },
+            "familyName" : "Antique Extended",
+            "fontSlant" : -0,
+            "styleName" : "Black",
+            "upm" : 1000,
+            "version" : "1.000",
+            "verticalMetrics" : {
+              "ascender" : 720,
+              "capHeight" : 700,
+              "descender" : -200,
+              "xHeight" : 500
+            }
+          },
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
+          "styleName" : "Black",
+          "type" : "source"
+        }
+      }
+    ]
+  },
+  "info" : {
+    "lastExportedFiles" : [
+      "~/Documents/GitHub/Glyphs-files/Proofs/Font Proof 1 Antique Extended 2025-06-14 - 12.37.49.pdf",
+      "~/Documents/GitHub/Glyphs-files/Proofs/Font Proof 2 Antique Extended 2025-06-14 - 12.37.49.pdf",
+      "~/Documents/GitHub/Glyphs-files/Proofs/Font Proof 3 Antique Extended 2025-06-14 - 12.37.49.pdf"
+    ],
+    "version" : 4
+  },
+  "sections" : [
+    {
+      "active" : true,
+      "content" : "HEMROG danpifeglurosty",
+      "design" : {
+        "fontSizes" : [
+          12,
+          16,
+          24,
+          36,
+          48,
+          96
+        ],
+        "textAlign" : "left"
+      },
+      "layout" : "waterfall",
+      "name" : "Waterfall"
+    },
+    {
+      "active" : true,
+      "content" : "ABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz",
+      "design" : {
+        "gridFontSize" : 72
+      },
+      "layout" : "glyphGrid",
+      "name" : "Grid"
+    },
+    {
+      "active" : true,
+      "content" : "Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz",
+      "design" : {
+        "columnQuantity" : 3,
+        "fontSize" : 48,
+        "styleArrangement" : "columns"
+      },
+      "layout" : "styleComparison",
+      "name" : "New Section"
+    }
+  ],
+  "settings" : {
+    "exportedFiles" : {
+      "addDate" : true,
+      "addFamilyName" : true,
+      "addStyleName" : false,
+      "addTime" : true,
+      "exportFolder" : "~/Documents/GitHub/Glyphs-files/Proofs",
+      "fileName" : "Font Proof",
+      "multiplePDFs" : true
+    },
+    "header" : {
+      "dateFormat" : {
+        "day" : true,
+        "month" : true,
+        "time" : true,
+        "weekday" : true,
+        "year" : true
+      },
+      "localizeDate" : true,
+      "showDesigner" : true,
+      "showFileName" : false,
+      "showSectionName" : true,
+      "showVersion" : false
+    },
+    "labels" : {
+      "currentFont" : false,
+      "font" : "AvenirNext-Regular\nAvenir Next Regular",
+      "fontSize" : 10
+    },
+    "pageSize" : {
+      "height" : 595.275590551173,
+      "width" : 841.889763779516
+    },
+    "removeEmptyGlyphs" : true,
+    "units" : {
+      "layout" : "mm",
+      "typography" : "pt"
+    }
+  }
+}
