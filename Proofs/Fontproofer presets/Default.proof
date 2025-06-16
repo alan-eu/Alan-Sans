@@ -95,16 +95,16 @@
   },
   "info" : {
     "lastExportedFiles" : [
-      "~/Documents/GitHub/Glyphs-files/Proofs/Font Proof 1 Antique Extended 2025-06-14 - 12.37.49.pdf",
-      "~/Documents/GitHub/Glyphs-files/Proofs/Font Proof 2 Antique Extended 2025-06-14 - 12.37.49.pdf",
-      "~/Documents/GitHub/Glyphs-files/Proofs/Font Proof 3 Antique Extended 2025-06-14 - 12.37.49.pdf"
+      "~/Documents/GitHub/Glyphs-files/Proofs/1 Antique Extended Thin 2025-06-14 - 13.28.47.pdf",
+      "~/Documents/GitHub/Glyphs-files/Proofs/2 Antique Extended Medium 2025-06-14 - 13.28.47.pdf",
+      "~/Documents/GitHub/Glyphs-files/Proofs/3 Antique Extended Black 2025-06-14 - 13.28.47.pdf"
     ],
     "version" : 4
   },
   "sections" : [
     {
       "active" : true,
-      "content" : "HEMROG danpifeglurosty",
+      "content" : "PBRKAVWYXKZOQGCDUHIEFLMNTS\nceobpdqganumhijlrftkvwxyzs\n1234567890",
       "design" : {
         "fontSizes" : [
           12,
@@ -121,33 +121,70 @@
     },
     {
       "active" : true,
-      "content" : "ABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz",
+      "content" : "",
       "design" : {
-        "gridFontSize" : 72
+        "glyphInfoLabels" : {
+          "glyphName" : false
+        },
+        "glyphOverlays" : {
+          "extendMetricLines" : true,
+          "metricLines" : false
+        },
+        "gridColumnQuantity" : 0,
+        "gridFontSize" : 126
       },
       "layout" : "glyphGrid",
       "name" : "Grid"
     },
     {
       "active" : true,
-      "content" : "Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz",
+      "content" : "quixotic § guffaw cipher coöperation isn’t kiosk who’s piñata facade résumé trapezoid €199 jigsaw 42.75 zephyr buzzard whizzing yachtsman &co buckwheat fjord protégé vignette riffraff lithograph archæology pizzazz fluff cofflaw drought syzygy fluff xylophone afflict vis-à-vis percentage glyph whizzing he’s mnemonic waffling elite scuffle numbskull @email naïve touché phlegmatic facade 1234567890 office sniffle soufflé fjord bizarre à la carte elixir you’ve kaleidoscope i’d zigzag jalapeño résumé who’s affinity raffle should’ve zephyr buzzard vignette fluff trapezoid ©2025 fife pizzazz drought drought it’s wouldn’t afflict facade cliché blitz mezzanine fluff ubiquity whizzing mezzanine jittery phlegmatic syzygy buckwheat number infinity hiccup crêpe xylophone gizmo bizarre doppelgänger rendezvous scuffle glyph facade touché vis-à-vis scuffle facade naïve gizmo fjord raffle souvenir naïve façade cliché jalapeño año garçon résumé schilderij mañana élève soufflé gezellig à côté español fiets café aubergine crêpe mañana gezelligheid bijlage voilà à l’aise piñata señorita naïf vélo bloemen bureau árbol flamenco goûter gazpacho élévateur tortilla parapluie schilder avocado débrouillard queso auberge garçonnetje frangipane vriendelijk pâté éclat calle çava boerderij señora flamand enquête bureau vriend gazon d’accord jalapeños muur ontbijt estación goûter querétaro vélo boekenkast lumière achterdeur croissant árbol bientôt croquetas baguette éclair trésor bos bloemenwinkel étage bibliothèque señora huwelijksfeest murcielago élève balpen épinards fiesta onderbroek canapé tortilla citroën voornaam façade sombrero señor déjeuner verdorie résumé café escargot jalapeño auberge bloem monsieur étage arbre lelijk aardig estación",
       "design" : {
-        "columnQuantity" : 3,
         "fontSize" : 48,
-        "styleArrangement" : "columns"
+        "textAlign" : "left"
       },
-      "layout" : "styleComparison",
-      "name" : "New Section"
+      "layout" : "simple",
+      "name" : "Big words LC"
+    },
+    {
+      "active" : true,
+      "content" : "QUIXOTIC § GUFFAW CIPHER COÖPERATION ISN’T KIOSK WHO’S PIÑATA FACADE RÉSUMÉ TRAPEZOID €199 JIGSAW 42.75 ZEPHYR BUZZARD WHIZZING YACHTSMAN &CO BUCKWHEAT FJORD PROTÉGÉ VIGNETTE RIFFRAFF LITHOGRAPH ARCHÆOLOGY PIZZAZZ FLUFF COFFLAW DROUGHT SYZYGY FLUFF XYLOPHONE AFFLICT VIS-À-VIS PERCENTAGE GLYPH WHIZZING HE’S MNEMONIC WAFFLING ELITE SCUFFLE NUMBSKULL @EMAIL NAÏVE TOUCHÉ PHLEGMATIC FACADE 1234567890 OFFICE SNIFFLE SOUFFLÉ FJORD BIZARRE À LA CARTE ELIXIR YOU’VE KALEIDOSCOPE I’D ZIGZAG JALAPEÑO RÉSUMÉ WHO’S AFFINITY RAFFLE SHOULD’VE ZEPHYR BUZZARD VIGNETTE FLUFF TRAPEZOID ©2025 FIFE PIZZAZZ DROUGHT DROUGHT IT’S WOULDN’T AFFLICT FACADE CLICHÉ BLITZ MEZZANINE FLUFF UBIQUITY WHIZZING MEZZANINE JITTERY PHLEGMATIC SYZYGY BUCKWHEAT NUMBER INFINITY HICCUP CRÊPE XYLOPHONE GIZMO BIZARRE DOPPELGÄNGER RENDEZVOUS SCUFFLE GLYPH FACADE TOUCHÉ VIS-À-VIS SCUFFLE FACADE NAÏVE GIZMO FJORD RAFFLE SOUVENIR NAÏVE FAÇADE CLICHÉ JALAPEÑO AÑO GARÇON RÉSUMÉ SCHILDERIJ MAÑANA ÉLÈVE SOUFFLÉ GEZELLIG À CÔTÉ ESPAÑOL FIETS CAFÉ AUBERGINE CRÊPE MAÑANA GEZELLIGHEID BIJLAGE VOILÀ À L’AISE PIÑATA SEÑORITA NAÏF VÉLO BLOEMEN BUREAU ÁRBOL FLAMENCO GOÛTER GAZPACHO ÉLÉVATEUR TORTILLA PARAPLUIE SCHILDER AVOCADO DÉBROUILLARD QUESO AUBERGE GARÇONNETJE FRANGIPANE VRIENDELIJK PÂTÉ ÉCLAT CALLE ÇAVA BOERDERIJ SEÑORA FLAMAND ENQUÊTE BUREAU VRIEND GAZON D’ACCORD JALAPEÑOS MUUR ONTBIJT ESTACIÓN GOÛTER QUERÉTARO VÉLO BOEKENKAST LUMIÈRE ACHTERDEUR CROISSANT ÁRBOL BIENTÔT CROQUETAS BAGUETTE ÉCLAIR TRÉSOR BOS BLOEMENWINKEL ÉTAGE BIBLIOTHÈQUE SEÑORA HUWELIJKSFEEST MURCIÉLAGO ÉLÈVE BALPEN ÉPINARDS FIESTA ONDERBROEK CANAPÉ TORTILLA CITROËN VOORNAAM FAÇADE SOMBRERO SEÑOR DÉJEUNER VERDORIE RÉSUMÉ CAFÉ ESCARGOT JALAPEÑO AUBERGE BLOEM MONSIEUR ÉTAGE ARBRE LELIJK AARDIG ESTACIÓN",
+      "design" : {
+        "fontSize" : 48,
+        "textAlign" : "left"
+      },
+      "layout" : "simple",
+      "name" : "Big words UC"
+    },
+    {
+      "active" : true,
+      "content" : "Les chiffres ne mentaient pas : 1,618 — le nombre d’or. 3,14159 — une autre constante universelle. Ses fichiers étaient nommés selon une logique rigoureuse : données_2025-Q2.xlsx, Résumé-final_v3.2.docx, ou encore facture#0048-CA.pdf. Le signe « @ » apparaissait partout, entre hashtags, pseudos, et adresses e-mail.\nPack my box with five dozen liquor jugs, whispered the cryptic thief, as he scanned the opulent vault. Éléonore adorait les mots rares : amphigouri, syzygie, époustouflant, ou encore flâner — ce verbe intraduisible qu’elle utilisait chaque dimanche en se promenant sans but précis. Elle collectionnait aussi les signes typographiques : guillemets français («  »), points de suspension… et tirets cadratins — qu’elle utilisait à bon escient. Dazzling jewels glistened beside oxidized bronze artifacts — an eclectic collection from Egypt, Zürich, and São Paulo. Kooky phrases like “fjord glyph buzz” echoed softly. 1234567890 — digits march along neatly, but test them with: $42.75, €99.00, ¥10,000, or £8.50. Try ALL CAPS for headlines: EVERY LETTER DESERVES CONSISTENCY AND CLARITY. À l’ombre d’un érable centenaire, Noémie écrivait ses pensées dans un carnet en cuir. « Le monde change, mais le parfum du café reste le même », nota-t-elle en souriant. Près d’elle, un renard roux traversait le sentier, disparaissant dans les fougères comme une virgule dans une phrase oubliée.\nQuaint though it was, the town wasn’t immune to progress. Satellite dishes bloomed atop stone chimneys, Wi-Fi signals pulsed through thick walls, and neighbors debated philosophy via group chat. Oddly enough, the blacksmith still shod horses on Tuesdays, his hammer echoing like an old Morse code beneath the birch trees. Matilda’s thesis — “On the Semiotics of Silence in 21st Century Cinema” — puzzled even her professors. Was a pause just a pause, or a statement in itself? She typed furiously, pausing only to sip her oolong tea or pet her cat, Felix (who, unlike Schrödinger’s, was definitively alive). Emails arrived in bursts: 9:01 AM, 9:01 AM, 9:02 AM. Subject lines screamed in ALL CAPS. Footnotes multiplied like rabbits: see §4.2, cf. Appendix B, ibid., et al. She sighed and adjusted the kerning manually, nudging the “W” and “A” until they nestled together like long-lost friends.\n\n\n\n\n\n",
+      "design" : {
+        "columnGutters" : [
+          22.6771653543304
+        ],
+        "columnQuantity" : 3,
+        "continuousContent" : false,
+        "fontSizes" : [
+          9,
+          13,
+          18
+        ],
+        "textAlign" : "left"
+      },
+      "layout" : "columns",
+      "name" : "Paragraphs"
     }
   ],
   "settings" : {
     "exportedFiles" : {
       "addDate" : true,
       "addFamilyName" : true,
-      "addStyleName" : false,
+      "addStyleName" : true,
       "addTime" : true,
+      "dynamicInfoPlacement" : "prefix",
       "exportFolder" : "~/Documents/GitHub/Glyphs-files/Proofs",
-      "fileName" : "Font Proof",
+      "fileName" : "",
       "multiplePDFs" : true
     },
     "header" : {
