@@ -40,7 +40,7 @@
         }
       },
       {
-        "active" : true,
+        "active" : false,
         "fontProjectStyle" : {
           "active" : true,
           "id" : "047F74F8-C2EE-4453-AD15-AB7DDCF5928D",
@@ -96,7 +96,7 @@
         }
       },
       {
-        "active" : true,
+        "active" : false,
         "fontProjectStyle" : {
           "active" : true,
           "id" : "57D8397B-3EAC-4C68-BAD8-5D3C30DD0FB8",
@@ -155,11 +155,9 @@
   },
   "info" : {
     "lastExportedFiles" : [
-      "~/Documents/GitHub/Glyphs-files/Proofs/1 Antique Extended Light 2025-06-18 - 15.22.23.pdf",
-      "~/Documents/GitHub/Glyphs-files/Proofs/2 Antique Extended Regular 2025-06-18 - 15.22.23.pdf",
-      "~/Documents/GitHub/Glyphs-files/Proofs/3 Antique Extended Medium 2025-06-18 - 15.22.23.pdf",
-      "~/Documents/GitHub/Glyphs-files/Proofs/4 Antique Extended Bold 2025-06-18 - 15.22.23.pdf",
-      "~/Documents/GitHub/Glyphs-files/Proofs/5 Antique Extended Black 2025-06-18 - 15.22.23.pdf"
+      "~/Documents/GitHub/Glyphs-files/Proofs/1 Antique Extended Light 2025-06-18 - 21.04.36.pdf",
+      "~/Documents/GitHub/Glyphs-files/Proofs/2 Antique Extended Medium 2025-06-18 - 21.04.36.pdf",
+      "~/Documents/GitHub/Glyphs-files/Proofs/3 Antique Extended Black 2025-06-18 - 21.04.36.pdf"
     ],
     "version" : 4
   },
