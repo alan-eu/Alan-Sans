@@ -5,7 +5,7 @@
       {
         "familyName" : "Antique Extended",
         "filePath" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
-        "id" : "2ECBE8C9-9FB8-4846-8596-6DBB83191F63",
+        "id" : "5BA51C9F-9098-4B54-ABDA-8B4DDC7CCE21",
         "type" : "GlyphsFormat3"
       }
     ],
@@ -13,6 +13,7 @@
     "styles" : [
       {
         "active" : true,
+        "familyName" : "Antique Extended",
         "fontProjectStyle" : {
           "active" : true,
           "id" : "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE",
@@ -35,10 +36,12 @@
           "project" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
           "styleName" : "Thin",
           "type" : "source"
-        }
+        },
+        "styleName" : "Thin"
       },
       {
         "active" : true,
+        "familyName" : "Antique Extended",
         "fontProjectStyle" : {
           "active" : true,
           "id" : "047F74F8-C2EE-4453-AD15-AB7DDCF5928D",
@@ -63,10 +66,12 @@
           "project" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
           "styleName" : "Regular",
           "type" : "staticInstance"
-        }
+        },
+        "styleName" : "Regular"
       },
       {
         "active" : true,
+        "familyName" : "Antique Extended",
         "fontProjectStyle" : {
           "active" : true,
           "id" : "57D8397B-3EAC-4C68-BAD8-5D3C30DD0FB8",
@@ -91,10 +96,12 @@
           "project" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
           "styleName" : "Bold",
           "type" : "staticInstance"
-        }
+        },
+        "styleName" : "Bold"
       },
       {
         "active" : true,
+        "familyName" : "Antique Extended",
         "fontProjectStyle" : {
           "active" : true,
           "id" : "83B83716-1CD1-47ED-B715-8773FED73F88",
@@ -117,7 +124,8 @@
           "project" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
           "styleName" : "Black",
           "type" : "source"
-        }
+        },
+        "styleName" : "Black"
       }
     ]
   },
@@ -577,8 +585,8 @@
       "fontSize" : 10
     },
     "pageSize" : {
-      "height" : 595.2755905511739,
-      "width" : 841.889763779517
+      "height" : 595.2755905511748,
+      "width" : 841.8897637795179
     },
     "removeEmptyGlyphs" : true,
     "units" : {
