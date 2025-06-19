@@ -8,8 +8,7 @@ hwxkznnnnnznnn,
 "AMNESIE/space WAVEFORM/space PHARMACEUTICAL\012biologie/space kinésithér/a.ss01 pie\012\012AMN/E.ss06 SI/E.ss06/space WAV/E.ss06 FO/R.ss06 M/space PHA/R.ss06 MAC/E.ss06 UTICAL\012/b.ss02 io/l.ss04 o/g.ss06 ie/space/k.ss05 inésithérapie\012\012A/M.ss05 N/E.ss06 SI/E.ss06/space/W.ss05 AV/E.ss06 FO/R.ss06/M.ss05 \012PHA/R.ss06/M.ss05 AC/E.ss06 UTICAL\012/b.ss02 io/l.ss04 o/g.ss05 ie/space/k.ss05 inésithérapie\012",
 "Aa/space/A.ss01 a/space A/a.ss01/space A/a.ss04/space Bb/space B/b.ss02/space Cc/space Dd/space Ee/space/E.ss06 e/space Ff/space Gg/space/G.ss01 g/space/G.ss01/g.ss05/space/G.ss01/g.ss06/space Hh/space Ii/space Jj/space Kk/space K/k.ss05/space K/k.ss05/space Ll/space L/l.ss04/space Mm/space/M.ss05 m/space Nn/space Nn/space Oo/space Pp/space Qq/space/Q.ss05 q/space Rr/space/R.ss06 r/space/R.ss06 r/space Ss/space Tt/space Uu/space U/u.ss08/space Vv/space Ww/space/W.ss05 w/space Xx/space Yy/space Zz/space 12452679",
 "Aa/space Bbp/b.ss02 nmhu/space Cca/space Dd/space Ee/space Ff/space CGHog/space Hh/space Ii/space Jj/space Kk/space Ll/space HMm/space Nn/space Oo/space PRHBp/space Qq/space Rr/space Ss/space Tt/space Uu/space Vv/space Ww/space Xx/space Yy/space Zz/space",
-"RR/space/space QQ/space/space GG/space/space AA/space/space ZZ/space/space KK/space/space/space \012tt/space gg/space/space ll/space/space kk/space/space uu/space/space rr/space/space ww/space/space zz\01211/space/space 22/space/space 55/space/space 77/space \012",
-"thea/space bquick/space brown/space fox"
+"RR/space/space QQ/space/space GG/space/space AA/space/space ZZ/space/space KK/space/space/space \012tt/space gg/space/space ll/space/space kk/space/space uu/space/space rr/space/space ww/space/space zz\01211/space/space 22/space/space 55/space/space 77/space \012"
 );
 customParameters = (
 {
@@ -8757,7 +8756,7 @@ width = 268;
 },
 {
 glyphname = k;
-lastChange = "2025-06-18 18:16:33 +0000";
+lastChange = "2025-06-19 18:24:34 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -8819,11 +8818,11 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"487 305 LINE SMOOTH",
-"526 336 OFFCURVE",
-"550 373 OFFCURVE",
-"550 417 CURVE SMOOTH",
-"550 468 OFFCURVE",
+"483 305 LINE SMOOTH",
+"522 336 OFFCURVE",
+"546 373 OFFCURVE",
+"546 418 CURVE SMOOTH",
+"546 468 OFFCURVE",
 "517 512 OFFCURVE",
 "450 512 CURVE SMOOTH",
 "394 512 OFFCURVE",
@@ -10533,7 +10532,7 @@ unicode = 0073;
 },
 {
 glyphname = t;
-lastChange = "2025-06-18 17:23:25 +0000";
+lastChange = "2025-06-19 18:24:03 +0000";
 layers = (
 {
 associatedMasterId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -10674,7 +10673,7 @@ nodes = (
 );
 }
 );
-width = 444;
+width = 434;
 },
 {
 associatedMasterId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
