@@ -4,8 +4,8 @@
     "fontProjects" : [
       {
         "familyName" : "Antique Extended",
-        "filePath" : "~/Documents/GitHub/Glyphs-files/Production/250619_Antique.glyphs",
-        "id" : "D1A88EF9-750C-46DE-BF2F-05921E061C2F",
+        "filePath" : "~/Documents/GitHub/Glyphs-files/Production/250624_Antique.glyphs",
+        "id" : "9A7BBAAC-E4F1-422E-BBAB-FBC61E446DE5",
         "type" : "GlyphsFormat3"
       }
     ],
@@ -34,7 +34,7 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250619_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250624_Antique.glyphs",
           "styleName" : "Light",
           "type" : "staticInstance"
         }
@@ -62,7 +62,7 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250619_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250624_Antique.glyphs",
           "styleName" : "Regular",
           "type" : "staticInstance"
         }
@@ -90,7 +90,7 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250619_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250624_Antique.glyphs",
           "styleName" : "Medium",
           "type" : "staticInstance"
         }
@@ -118,7 +118,7 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250619_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250624_Antique.glyphs",
           "styleName" : "Bold",
           "type" : "staticInstance"
         }
@@ -146,7 +146,7 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250619_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250624_Antique.glyphs",
           "styleName" : "Black",
           "type" : "staticInstance"
         }
@@ -155,9 +155,9 @@
   },
   "info" : {
     "lastExportedFiles" : [
-      "~/Documents/GitHub/Glyphs-files/Proofs/1 Antique Extended Light 2025-06-19 - 15.06.44.pdf",
-      "~/Documents/GitHub/Glyphs-files/Proofs/2 Antique Extended Medium 2025-06-19 - 15.06.44.pdf",
-      "~/Documents/GitHub/Glyphs-files/Proofs/3 Antique Extended Black 2025-06-19 - 15.06.44.pdf"
+      "~/Documents/GitHub/Glyphs-files/Proofs/1 Antique Extended Light 2025-06-24 - 12.58.23.pdf",
+      "~/Documents/GitHub/Glyphs-files/Proofs/2 Antique Extended Medium 2025-06-24 - 12.58.23.pdf",
+      "~/Documents/GitHub/Glyphs-files/Proofs/3 Antique Extended Black 2025-06-24 - 12.58.23.pdf"
     ],
     "version" : 4
   },
@@ -221,7 +221,7 @@
       "content" : "Les chiffres ne mentaient pas : 1,618 — le nombre d’or. 3,14159 — une autre constante universelle. Ses fichiers étaient nommés selon une logique rigoureuse : données_2025-Q2.xlsx, Résumé-final_v3.2.docx, ou encore facture#0048-CA.pdf. Le signe « @ » apparaissait partout, entre hashtags, pseudos, et adresses e-mail.\nPack my box with five dozen liquor jugs, whispered the cryptic thief, as he scanned the opulent vault. Éléonore adorait les mots rares : amphigouri, syzygie, époustouflant, ou encore flâner — ce verbe intraduisible qu’elle utilisait chaque dimanche en se promenant sans but précis. Elle collectionnait aussi les signes typographiques : guillemets français («  »), points de suspension… et tirets cadratins — qu’elle utilisait à bon escient. Dazzling jewels glistened beside oxidized bronze artifacts — an eclectic collection from Egypt, Zürich, and São Paulo. Kooky phrases like “fjord glyph buzz” echoed softly. 1234567890 — digits march along neatly, but test them with: $42.75, €99.00, ¥10,000, or £8.50. Try ALL CAPS for headlines: EVERY LETTER DESERVES CONSISTENCY AND CLARITY. À l’ombre d’un érable centenaire, Noémie écrivait ses pensées dans un carnet en cuir. « Le monde change, mais le parfum du café reste le même », nota-t-elle en souriant. Près d’elle, un renard roux traversait le sentier, disparaissant dans les fougères comme une virgule dans une phrase oubliée.\nQuaint though it was, the town wasn’t immune to progress. Satellite dishes bloomed atop stone chimneys, Wi-Fi signals pulsed through thick walls, and neighbors debated philosophy via group chat. Oddly enough, the blacksmith still shod horses on Tuesdays, his hammer echoing like an old Morse code beneath the birch trees. Matilda’s thesis — “On the Semiotics of Silence in 21st Century Cinema” — puzzled even her professors. Was a pause just a pause, or a statement in itself? She typed furiously, pausing only to sip her oolong tea or pet her cat, Felix (who, unlike Schrödinger’s, was definitively alive). Emails arrived in bursts: 9:01 AM, 9:01 AM, 9:02 AM. Subject lines screamed in ALL CAPS. Footnotes multiplied like rabbits: see §4.2, cf. Appendix B, ibid., et al. She sighed and adjusted the kerning manually, nudging the “W” and “A” until they nestled together like long-lost friends.\n\n\n\n\n\n",
       "design" : {
         "columnGutters" : [
-          22.6771653543314
+          22.677165354332402
         ],
         "columnQuantity" : 3,
         "continuousContent" : false,
@@ -240,7 +240,7 @@
       "content" : "Satellite dishes bloomed atop stone chimneys, Wi-Fi signals pulsed through thick walls, and neighbors debated philosophy via group chat.",
       "design" : {
         "columnGutters" : [
-          22.6771653543314
+          22.677165354332402
         ],
         "columnQuantity" : 2,
         "continuousContent" : false,
@@ -285,8 +285,8 @@
       "fontSize" : 10
     },
     "pageSize" : {
-      "height" : 595.2755905511739,
-      "width" : 841.889763779517
+      "height" : 595.2755905511748,
+      "width" : 841.8897637795179
     },
     "removeEmptyGlyphs" : true,
     "units" : {
