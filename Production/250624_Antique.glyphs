@@ -7,8 +7,7 @@ DisplayStrings = (
 hwxkznnnnnznnn,
 "AMNESIE/space WAVEFORM/space PHARMACEUTICAL\012biologie/space kinésithér/a.ss01 pie\012\012AMNSI/space WAVFOM/space PHAMACUTICAL\012iooie/space inésithérapie\012\012ANSI/space AVFO\012PHAACUTICAL\012iooie/space inésithérapie\012",
 "Aa/space a/space A/a.ss01/space A/space Bb/space B/space Cc/space Dd/space Ee/space e/space Ff/space Gg/space g/space/space/space Hh/space Ii/space Jj/space Kk/space K/space K/space Ll/space L/space Mm/space m/space Nn/space Nn/space Oo/space Pp/space Qq/space q/space Rr/space r/space r/space Ss/space Tt/space Uu/space U/space Vv/space Ww/space w/space Xx/space Yy/space Zz/space 12452679",
-"Aa/space Bbpnmhu/space Cca/space Dd/space Ee/space Ff/space CGHog/space Hh/space Ii/space Jj/space Kk/space Ll/space HMm/space Nn/space Oo/space PRHBp/space Qq/space Rr/space Ss/space Tt/space Uu/space Vv/space Ww/space Xx/space Yy/space Zz/space",
-"C{C}()"
+"Aa/space Bbpnmhu/space Cca/space Dd/space Ee/space Ff/space CGHog/space Hh/space Ii/space Jj/space Kk/space Ll/space HMm/space Nn/space Oo/space PRHBp/space Qq/space Rr/space Ss/space Tt/space Uu/space Vv/space Ww/space Xx/space Yy/space Zz/space"
 );
 customParameters = (
 {
@@ -14671,7 +14670,7 @@ unicode = 0029;
 },
 {
 glyphname = braceleft;
-lastChange = "2025-06-24 17:33:34 +0000";
+lastChange = "2025-06-24 17:35:24 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -14712,24 +14711,24 @@ paths = (
 closed = 1;
 nodes = (
 "20 274 LINE",
-"462 274 OFFCURVE",
-"171 544 OFFCURVE",
+"482 274 OFFCURVE",
+"151 544 OFFCURVE",
 "344 524 CURVE",
 "344 700 LINE",
-"-89 740 OFFCURVE",
-"202 388 OFFCURVE",
+"-119 740 OFFCURVE",
+"222 388 OFFCURVE",
 "20 388 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"202 212 OFFCURVE",
-"-89 -140 OFFCURVE",
+"222 212 OFFCURVE",
+"-119 -140 OFFCURVE",
 "344 -100 CURVE",
 "344 76 LINE",
-"171 56 OFFCURVE",
-"462 326 OFFCURVE",
+"151 56 OFFCURVE",
+"482 326 OFFCURVE",
 "20 326 CURVE",
 "20 212 LINE"
 );
