@@ -4,8 +4,8 @@
     "fontProjects" : [
       {
         "familyName" : "Antique Extended",
-        "filePath" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
-        "id" : "5BA51C9F-9098-4B54-ABDA-8B4DDC7CCE21",
+        "filePath" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
+        "id" : "9A7BBAAC-E4F1-422E-BBAB-FBC61E446DE5",
         "type" : "GlyphsFormat3"
       }
     ],
@@ -13,17 +13,18 @@
     "styles" : [
       {
         "active" : true,
-        "familyName" : "Antique Extended",
         "fontProjectStyle" : {
           "active" : true,
-          "id" : "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE",
+          "id" : "C5AA2340-712D-4861-AC1F-8AB7563EB000",
           "info" : {
             "axisValues" : {
               "wght" : 0
             },
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
-            "styleName" : "Thin",
+            "fontWeight" : 400,
+            "fontWidth" : 5,
+            "styleName" : "Light",
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
@@ -33,15 +34,13 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
-          "styleName" : "Thin",
-          "type" : "source"
-        },
-        "styleName" : "Thin"
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
+          "styleName" : "Light",
+          "type" : "staticInstance"
+        }
       },
       {
         "active" : true,
-        "familyName" : "Antique Extended",
         "fontProjectStyle" : {
           "active" : true,
           "id" : "047F74F8-C2EE-4453-AD15-AB7DDCF5928D",
@@ -63,15 +62,41 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
           "styleName" : "Regular",
           "type" : "staticInstance"
-        },
-        "styleName" : "Regular"
+        }
       },
       {
         "active" : true,
-        "familyName" : "Antique Extended",
+        "fontProjectStyle" : {
+          "active" : true,
+          "id" : "9AAC875F-C762-4CF2-B869-DEC24B68ECF1",
+          "info" : {
+            "axisValues" : {
+              "wght" : 450
+            },
+            "familyName" : "Antique Extended",
+            "fontSlant" : -0,
+            "fontWeight" : 400,
+            "fontWidth" : 5,
+            "styleName" : "Medium",
+            "upm" : 1000,
+            "version" : "1.000",
+            "verticalMetrics" : {
+              "ascender" : 720,
+              "capHeight" : 700,
+              "descender" : -200,
+              "xHeight" : 500
+            }
+          },
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
+          "styleName" : "Medium",
+          "type" : "staticInstance"
+        }
+      },
+      {
+        "active" : true,
         "fontProjectStyle" : {
           "active" : true,
           "id" : "57D8397B-3EAC-4C68-BAD8-5D3C30DD0FB8",
@@ -93,24 +118,24 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
           "styleName" : "Bold",
           "type" : "staticInstance"
-        },
-        "styleName" : "Bold"
+        }
       },
       {
         "active" : true,
-        "familyName" : "Antique Extended",
         "fontProjectStyle" : {
           "active" : true,
-          "id" : "83B83716-1CD1-47ED-B715-8773FED73F88",
+          "id" : "112FE7FA-B001-46D0-BF9E-C906AE7CAE14",
           "info" : {
             "axisValues" : {
               "wght" : 1000
             },
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
+            "fontWeight" : 400,
+            "fontWidth" : 5,
             "styleName" : "Black",
             "upm" : 1000,
             "version" : "1.000",
@@ -121,34 +146,33 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250614_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
           "styleName" : "Black",
-          "type" : "source"
-        },
-        "styleName" : "Black"
+          "type" : "staticInstance"
+        }
       }
     ]
   },
   "info" : {
     "lastExportedFiles" : [
-      "~/Documents/GitHub/Glyphs-files/Proofs/Font Proof Antique Extended 2025-06-14 - 13.02.29.pdf"
+      "~/Documents/GitHub/Glyphs-files/Proofs/Font Proof Antique Extended 2025-06-25 - 12.08.56.pdf"
     ],
     "version" : 4
   },
   "sections" : [
     {
-      "active" : true,
+      "active" : false,
       "content" : "a b c d e f g h i j k l m n o p q r s t u v w x y z",
       "design" : {
         "fontSize" : 48,
-        "lineHeight" : 0.8,
+        "lineHeight" : 0.1,
         "styleArrangement" : "rows"
       },
       "layout" : "styleComparison",
       "name" : "Lines Lc"
     },
     {
-      "active" : true,
+      "active" : false,
       "content" : "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z",
       "design" : {
         "fontSize" : 48,
@@ -160,399 +184,58 @@
     },
     {
       "active" : true,
-      "content" : "A\na",
+      "content" : "A Æ B C D E F G H I J K L M N O Œ P Q R S T U V W X Y Z",
       "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
+        "fontSize" : 56,
+        "lineHeight" : 0.8,
+        "styleArrangement" : "rows"
       },
       "layout" : "styleComparison",
-      "name" : "Aa"
+      "name" : "Capitals"
     },
     {
       "active" : true,
-      "content" : "B\nb",
+      "content" : "a æ b c d e f g h i j k l m n o œ p q r s t u v w x y z",
       "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
+        "fontSize" : 56,
+        "lineHeight" : 0.8,
+        "styleArrangement" : "rows"
       },
       "layout" : "styleComparison",
-      "name" : "Bb"
+      "name" : "Lowercase"
     },
     {
       "active" : true,
-      "content" : "C\nc",
+      "content" : "1 2 3 4 5 6 7 8 9 0",
       "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
+        "fontSize" : 56,
+        "lineHeight" : 0.8,
+        "styleArrangement" : "rows"
       },
       "layout" : "styleComparison",
-      "name" : "Cc"
+      "name" : "Numbers"
     },
     {
       "active" : true,
-      "content" : "D\nd",
+      "content" : ". , ; : ? ! ' ‘ « ( { [",
       "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
+        "fontSize" : 56,
+        "lineHeight" : 0.8,
+        "styleArrangement" : "rows"
       },
       "layout" : "styleComparison",
-      "name" : "Dd"
+      "name" : "Punctuation"
     },
     {
       "active" : true,
-      "content" : "E\ne",
+      "content" : "€ $ £ ¥ ¢",
       "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
+        "fontSize" : 56,
+        "lineHeight" : 0.8,
+        "styleArrangement" : "rows"
       },
       "layout" : "styleComparison",
-      "name" : "Ee"
-    },
-    {
-      "active" : true,
-      "content" : "F\nf",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Ff"
-    },
-    {
-      "active" : true,
-      "content" : "G\ng",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Gg"
-    },
-    {
-      "active" : true,
-      "content" : "H\nh",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Hh"
-    },
-    {
-      "active" : true,
-      "content" : "I\ni",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Ii"
-    },
-    {
-      "active" : true,
-      "content" : "J\nj",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Jj"
-    },
-    {
-      "active" : true,
-      "content" : "K\nk",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Kk"
-    },
-    {
-      "active" : true,
-      "content" : "L\nl",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Ll"
-    },
-    {
-      "active" : true,
-      "content" : "M\nm",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Mm"
-    },
-    {
-      "active" : true,
-      "content" : "N\nn",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Nn"
-    },
-    {
-      "active" : true,
-      "content" : "O\no",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Oo"
-    },
-    {
-      "active" : true,
-      "content" : "P\np",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Pp"
-    },
-    {
-      "active" : true,
-      "content" : "Q\nq",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Qq"
-    },
-    {
-      "active" : true,
-      "content" : "R\nr",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Rr"
-    },
-    {
-      "active" : true,
-      "content" : "S\ns",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Ss"
-    },
-    {
-      "active" : true,
-      "content" : "T\nt",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Tt"
-    },
-    {
-      "active" : true,
-      "content" : "U\nu",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Uu"
-    },
-    {
-      "active" : true,
-      "content" : "V\nv",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Vv"
-    },
-    {
-      "active" : true,
-      "content" : "W\nw",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Ww"
-    },
-    {
-      "active" : true,
-      "content" : "X\nx",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Xx"
-    },
-    {
-      "active" : true,
-      "content" : "Y\ny",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Yy"
-    },
-    {
-      "active" : true,
-      "content" : "Z\nz",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "Zz"
-    },
-    {
-      "active" : true,
-      "content" : "1",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "1"
-    },
-    {
-      "active" : true,
-      "content" : "2",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "2"
-    },
-    {
-      "active" : true,
-      "content" : "3",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "3"
-    },
-    {
-      "active" : true,
-      "content" : "4",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "4"
-    },
-    {
-      "active" : true,
-      "content" : "5",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "5"
-    },
-    {
-      "active" : true,
-      "content" : "6",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "6"
-    },
-    {
-      "active" : true,
-      "content" : "7",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "7"
-    },
-    {
-      "active" : true,
-      "content" : "8",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "8"
-    },
-    {
-      "active" : true,
-      "content" : "9",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "9"
-    },
-    {
-      "active" : true,
-      "content" : "0",
-      "design" : {
-        "columnQuantity" : 6,
-        "fontSize" : 128,
-        "styleArrangement" : "columns"
-      },
-      "layout" : "styleComparison",
-      "name" : "0"
+      "name" : "Monetary"
     }
   ],
   "settings" : {
@@ -585,8 +268,8 @@
       "fontSize" : 10
     },
     "pageSize" : {
-      "height" : 595.2755905511748,
-      "width" : 841.8897637795179
+      "height" : 595.2755905511758,
+      "width" : 841.889763779519
     },
     "removeEmptyGlyphs" : true,
     "units" : {
