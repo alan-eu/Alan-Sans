@@ -4,8 +4,8 @@
     "fontProjects" : [
       {
         "familyName" : "Antique Extended",
-        "filePath" : "~/Documents/GitHub/Glyphs-files/Production/250624_Antique.glyphs",
-        "id" : "9A7BBAAC-E4F1-422E-BBAB-FBC61E446DE5",
+        "filePath" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
+        "id" : "C7DB9ED6-8760-4963-AE8D-529DA520ECE9",
         "type" : "GlyphsFormat3"
       }
     ],
@@ -34,7 +34,7 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250624_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
           "styleName" : "Light",
           "type" : "staticInstance"
         }
@@ -62,7 +62,7 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250624_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
           "styleName" : "Regular",
           "type" : "staticInstance"
         }
@@ -90,7 +90,7 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250624_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
           "styleName" : "Medium",
           "type" : "staticInstance"
         }
@@ -118,7 +118,7 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250624_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
           "styleName" : "Bold",
           "type" : "staticInstance"
         }
@@ -146,7 +146,7 @@
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250624_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
           "styleName" : "Black",
           "type" : "staticInstance"
         }
