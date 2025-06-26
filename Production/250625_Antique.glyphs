@@ -13,7 +13,8 @@ hwxkznnnnnznnn,
 "l/lcaron",
 "/strokeshortcomb d/dcroat hh/hbar",
 "/aogonek",
-"a/f_f ictrmer\012affirmer\012mmmmml"
+"a/f_f ictrmer\012affirmer\012mmmmml",
+"yý"
 );
 customParameters = (
 {
@@ -38,7 +39,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature ss01;\012feature ordn;\012feature case;\012";
+code = "feature locl;\012feature ordn;\012feature case;\012feature ss01;\012";
 name = aalt;
 },
 {
@@ -60,11 +61,6 @@ name = ordn;
 automatic = 1;
 code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;\012";
 name = case;
-},
-{
-automatic = 1;
-code = "lookupflag IgnoreMarks;\012sub c t by c_t;\012";
-name = dlig;
 },
 {
 automatic = 1;
@@ -16192,7 +16188,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2025-06-24 10:08:44 +0000";
+lastChange = "2025-06-26 11:31:54 +0000";
 layers = (
 {
 anchors = (
@@ -16274,7 +16270,7 @@ position = "{250, 0}";
 },
 {
 name = top;
-position = "{250, 500}";
+position = "{273, 500}";
 }
 );
 components = (
@@ -16395,7 +16391,7 @@ unicode = 0079;
 },
 {
 glyphname = yacute;
-lastChange = "2025-06-10 21:50:10 +0000";
+lastChange = "2025-06-26 11:31:54 +0000";
 layers = (
 {
 components = (
@@ -16404,7 +16400,7 @@ name = y;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 133, 0}";
+transform = "{1, 0, 0, 1, 156, 0}";
 }
 );
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -16437,7 +16433,7 @@ name = y;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 82, 0}";
+transform = "{1, 0, 0, 1, 105, 0}";
 }
 );
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -16470,7 +16466,7 @@ name = y;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 70, 0}";
+transform = "{1, 0, 0, 1, 93, 0}";
 }
 );
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -16503,7 +16499,7 @@ name = y;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 70, 0}";
+transform = "{1, 0, 0, 1, 93, 0}";
 }
 );
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -16970,39 +16966,6 @@ width = 598;
 );
 leftMetricsKey = "=q";
 rightMetricsKey = "=q";
-},
-{
-glyphname = c_t;
-layers = (
-{
-components = (
-{
-name = c;
-},
-{
-name = t;
-transform = "{1, 0, 0, 1, 508, 0}";
-}
-);
-layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
-width = 880;
-},
-{
-components = (
-{
-name = c;
-},
-{
-name = t;
-transform = "{1, 0, 0, 1, 530, 0}";
-}
-);
-layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
-width = 964;
-}
-);
-leftMetricsKey = c;
-rightMetricsKey = t;
 },
 {
 glyphname = f_f;
