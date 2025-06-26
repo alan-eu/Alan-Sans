@@ -13,8 +13,7 @@ hwxkznnnnnznnn,
 "l/lcaron",
 "/strokeshortcomb d/dcroat hh/hbar",
 "/aogonek",
-"a/f_f ictrmer\012affirmer\012mmmmml",
-"yý"
+"a/f_f ictrmer\012affirmer\012mmmmml"
 );
 customParameters = (
 {
@@ -16188,7 +16187,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2025-06-26 11:31:54 +0000";
+lastChange = "2025-06-26 12:27:41 +0000";
 layers = (
 {
 anchors = (
@@ -16198,7 +16197,7 @@ position = "{299, 0}";
 },
 {
 name = top;
-position = "{299, 500}";
+position = "{323, 500}";
 }
 );
 components = (
@@ -16391,7 +16390,7 @@ unicode = 0079;
 },
 {
 glyphname = yacute;
-lastChange = "2025-06-26 11:31:54 +0000";
+lastChange = "2025-06-26 12:27:41 +0000";
 layers = (
 {
 components = (
@@ -16413,7 +16412,7 @@ name = y;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 158, 0}";
+transform = "{1, 0, 0, 1, 182, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
@@ -16446,7 +16445,7 @@ name = y;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 75, 0}";
+transform = "{1, 0, 0, 1, 99, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
@@ -16479,7 +16478,7 @@ name = y;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 75, 0}";
+transform = "{1, 0, 0, 1, 99, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
@@ -16512,7 +16511,7 @@ name = y;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 58, 0}";
+transform = "{1, 0, 0, 1, 82, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
