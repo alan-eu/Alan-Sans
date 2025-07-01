@@ -13,8 +13,7 @@ hwxkznnnnnznnn,
 "l/lcaron",
 "/strokeshortcomb d/dcroat hh/hbar",
 "/aogonek",
-"a/f_f ictrmer\012affirmer\012mmmmml",
-Ka
+"a/f_f ictrmer\012affirmer\012mmmmml"
 );
 customParameters = (
 {
@@ -3379,7 +3378,7 @@ unicode = 0136;
 },
 {
 glyphname = L;
-lastChange = "2025-06-25 16:17:05 +0000";
+lastChange = "2025-07-01 11:51:02 +0000";
 layers = (
 {
 anchors = (
@@ -3439,7 +3438,7 @@ position = "{162, 350}";
 },
 {
 name = top;
-position = "{287, 700}";
+position = "{151, 700}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
@@ -3472,6 +3471,7 @@ unicode = 004C;
 },
 {
 glyphname = Lacute;
+lastChange = "2025-07-01 11:51:02 +0000";
 layers = (
 {
 components = (
@@ -3493,7 +3493,7 @@ name = L;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 146, 200}";
+transform = "{1, 0, 0, 1, 10, 200}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
@@ -9888,7 +9888,7 @@ unicode = 00F0;
 },
 {
 glyphname = e;
-lastChange = "2025-07-01 11:21:40 +0000";
+lastChange = "2025-07-01 11:43:10 +0000";
 layers = (
 {
 anchors = (
@@ -10113,15 +10113,15 @@ nodes = (
 "544 39 CURVE",
 "544 179 LINE",
 "480 154 OFFCURVE",
-"423 142 OFFCURVE",
-"358 142 CURVE SMOOTH",
-"248 142 OFFCURVE",
+"421 140 OFFCURVE",
+"355 140 CURVE SMOOTH",
+"248 140 OFFCURVE",
 "228 176 OFFCURVE",
 "228 254 CURVE SMOOTH",
 "228 333 OFFCURVE",
-"248 358 OFFCURVE",
-"297 358 CURVE SMOOTH",
-"332 358 OFFCURVE",
+"248 360 OFFCURVE",
+"297 360 CURVE SMOOTH",
+"333 360 OFFCURVE",
 "348 345 OFFCURVE",
 "350 318 CURVE",
 "95 318 LINE",
