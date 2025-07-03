@@ -5,7 +5,7 @@ DisplayStrings = (
 "Ranpifert\012Ranpifert/space/space bpdqecg/space",
 "Anna/space Keroulle\012Laure/space Boutmy\012Tiphaine/space Gillet\012Raphael/space Ronot",
 hwxkznnnnnznnn,
-"H§"
+"H§gs"
 );
 customParameters = (
 {
@@ -21925,7 +21925,7 @@ unicode = 00B6;
 },
 {
 glyphname = section;
-lastChange = "2025-07-03 10:31:00 +0000";
+lastChange = "2025-07-03 12:01:21 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -22009,7 +22009,7 @@ nodes = (
 );
 }
 );
-width = 640;
+width = 650;
 }
 );
 unicode = 00A7;
@@ -27858,10 +27858,10 @@ fpID = "047F74F8-C2EE-4453-AD15-AB7DDCF5928D";
 };
 },
 {
-interpolationWeight = 360;
+interpolationWeight = 380;
 instanceInterpolations = {
-"83B83716-1CD1-47ED-B715-8773FED73F88" = 0.36;
-"D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.64;
+"83B83716-1CD1-47ED-B715-8773FED73F88" = 0.38;
+"D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.62;
 };
 name = Medium;
 userData = {
