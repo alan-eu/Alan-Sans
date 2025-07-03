@@ -7,7 +7,7 @@ DisplayStrings = (
 hwxkznnnnnznnn,
 "/minus 12×34+22",
 "H/H.sc h",
-tf
+"Hum\012/H.sc uml"
 );
 customParameters = (
 {
@@ -13662,7 +13662,7 @@ unicode = 0142;
 },
 {
 glyphname = m;
-lastChange = "2025-07-03 14:00:00 +0000";
+lastChange = "2025-06-18 17:47:02 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -13776,7 +13776,7 @@ nodes = (
 );
 }
 );
-width = 872;
+width = 874;
 },
 {
 associatedMasterId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -16139,7 +16139,7 @@ unicode = 021B;
 },
 {
 glyphname = u;
-lastChange = "2025-07-03 13:59:42 +0000";
+lastChange = "2025-06-25 14:52:09 +0000";
 layers = (
 {
 anchors = (
@@ -16192,19 +16192,19 @@ width = 584;
 anchors = (
 {
 name = bottom;
-position = "{280, 0}";
+position = "{282, 0}";
 },
 {
 name = ogonek;
-position = "{361, 0}";
+position = "{363, 0}";
 },
 {
 name = top;
-position = "{280, 500}";
+position = "{282, 500}";
 },
 {
 name = topright;
-position = "{536, 500}";
+position = "{538, 500}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
@@ -16212,28 +16212,28 @@ paths = (
 {
 closed = 1;
 nodes = (
-"464 -12 OFFCURVE",
-"542 79 OFFCURVE",
-"542 234 CURVE SMOOTH",
-"542 500 LINE",
-"326 500 LINE",
-"326 231 LINE SMOOTH",
-"326 193 OFFCURVE",
-"309 174 OFFCURVE",
-"281 174 CURVE SMOOTH",
-"253 174 OFFCURVE",
-"236 193 OFFCURVE",
-"236 231 CURVE SMOOTH",
-"236 500 LINE",
-"20 500 LINE",
-"20 234 LINE SMOOTH",
-"20 79 OFFCURVE",
-"98 -12 OFFCURVE",
-"281 -12 CURVE SMOOTH"
+"466 -12 OFFCURVE",
+"544 79 OFFCURVE",
+"544 234 CURVE SMOOTH",
+"544 500 LINE",
+"328 500 LINE",
+"328 231 LINE SMOOTH",
+"328 193 OFFCURVE",
+"311 174 OFFCURVE",
+"283 174 CURVE SMOOTH",
+"255 174 OFFCURVE",
+"238 193 OFFCURVE",
+"238 231 CURVE SMOOTH",
+"238 500 LINE",
+"22 500 LINE",
+"22 234 LINE SMOOTH",
+"22 79 OFFCURVE",
+"100 -12 OFFCURVE",
+"283 -12 CURVE SMOOTH"
 );
 }
 );
-width = 562;
+width = 566;
 },
 {
 anchors = (
@@ -16376,11 +16376,11 @@ name = u;
 },
 {
 name = acutecomb;
-transform = "{1, 0, 0, 1, 139, 0}";
+transform = "{1, 0, 0, 1, 141, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
-width = 562;
+width = 566;
 }
 );
 unicode = 00FA;
@@ -16409,11 +16409,11 @@ name = u;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 56, 0}";
+transform = "{1, 0, 0, 1, 58, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
-width = 562;
+width = 566;
 }
 );
 unicode = 00FB;
@@ -16442,11 +16442,11 @@ name = u;
 },
 {
 name = dieresiscomb;
-transform = "{1, 0, 0, 1, 56, 0}";
+transform = "{1, 0, 0, 1, 58, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
-width = 562;
+width = 566;
 }
 );
 unicode = 00FC;
@@ -16475,11 +16475,11 @@ name = u;
 },
 {
 name = gravecomb;
-transform = "{1, 0, 0, 1, 39, 0}";
+transform = "{1, 0, 0, 1, 41, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
-width = 562;
+width = 566;
 }
 );
 unicode = 00F9;
@@ -16508,11 +16508,11 @@ name = u;
 },
 {
 name = hungarumlautcomb;
-transform = "{1, 0, 0, 1, 91, 0}";
+transform = "{1, 0, 0, 1, 93, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
-width = 562;
+width = 566;
 }
 );
 unicode = 0171;
@@ -16541,11 +16541,11 @@ name = u;
 },
 {
 name = macroncomb;
-transform = "{1, 0, 0, 1, 100, 0}";
+transform = "{1, 0, 0, 1, 102, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
-width = 562;
+width = 566;
 }
 );
 unicode = 016B;
@@ -16574,11 +16574,11 @@ name = u;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 130, 0}";
+transform = "{1, 0, 0, 1, 132, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
-width = 562;
+width = 566;
 }
 );
 unicode = 0173;
@@ -16606,11 +16606,11 @@ name = u;
 },
 {
 name = ringcomb;
-transform = "{1, 0, 0, 1, 111, 0}";
+transform = "{1, 0, 0, 1, 113, 0}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
-width = 562;
+width = 566;
 }
 );
 unicode = 016F;
@@ -33284,10 +33284,6 @@ A = {
 C = -70;
 V = -150;
 };
-A.sc = {
-C.sc = -69;
-V.sc = -147;
-};
 K = {
 e = -50;
 };
@@ -33305,9 +33301,6 @@ v = -50;
 };
 W = {
 A = -60;
-};
-W.sc = {
-A.sc = -59;
 };
 Y = {
 y = -100;
@@ -33334,6 +33327,13 @@ e = -20;
 };
 t = {
 egrave = -30;
+};
+A.sc = {
+C.sc = -69;
+V.sc = -147;
+};
+W.sc = {
+A.sc = -59;
 };
 };
 };
