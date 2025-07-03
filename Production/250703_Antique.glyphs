@@ -27867,10 +27867,10 @@ fpID = "047F74F8-C2EE-4453-AD15-AB7DDCF5928D";
 };
 },
 {
-interpolationWeight = 380;
+interpolationWeight = 340;
 instanceInterpolations = {
-"83B83716-1CD1-47ED-B715-8773FED73F88" = 0.38;
-"D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.62;
+"83B83716-1CD1-47ED-B715-8773FED73F88" = 0.34;
+"D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.66;
 };
 name = Medium;
 userData = {
@@ -27879,21 +27879,21 @@ fpID = "9AAC875F-C762-4CF2-B869-DEC24B68ECF1";
 weightClass = Medium;
 },
 {
-interpolationWeight = 640;
+interpolationWeight = 560;
 instanceInterpolations = {
-"83B83716-1CD1-47ED-B715-8773FED73F88" = 0.64;
-"D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.36;
+"83B83716-1CD1-47ED-B715-8773FED73F88" = 0.56;
+"D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.44;
 };
-name = "Semi Bold";
+name = Bold;
 weightClass = SemiBold;
 },
 {
-interpolationWeight = 840;
+interpolationWeight = 800;
 instanceInterpolations = {
-"83B83716-1CD1-47ED-B715-8773FED73F88" = 0.84;
-"D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.16;
+"83B83716-1CD1-47ED-B715-8773FED73F88" = 0.8;
+"D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.2;
 };
-name = Bold;
+name = Black;
 userData = {
 fpID = "57D8397B-3EAC-4C68-BAD8-5D3C30DD0FB8";
 };
@@ -27904,7 +27904,7 @@ interpolationWeight = 1000;
 instanceInterpolations = {
 "83B83716-1CD1-47ED-B715-8773FED73F88" = 1;
 };
-name = Black;
+name = Heavy;
 userData = {
 fpID = "112FE7FA-B001-46D0-BF9E-C906AE7CAE14";
 };
