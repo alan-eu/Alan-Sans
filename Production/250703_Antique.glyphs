@@ -5,15 +5,6 @@ DisplayStrings = (
 "Ranpifert\012Ranpifert/space/space bpdqecg/space",
 "Anna/space Keroulle\012Laure/space Boutmy\012Tiphaine/space Gillet\012Raphael/space Ronot",
 hwxkznnnnnznnn,
-"AMNESIE/space WAVEFORM/space PHARMACEUTICAL\012biologie/space kinésithér/a.ss01 pie\012\012AMNSI/space WAVFOM/space PHAMACUTICAL\012iooie/space inésithérapie\012\012ANSI/space AVFO\012PHAACUTICAL\012iooie/space inésithérapie\012",
-"Aa/space a/space A/a.ss01/space A/space Bb/space B/space Cc/space Dd/space Ee/space e/space Ff/space Gg/space g/space/space/space Hh/space Ii/space Jj/space Kk/space K/space K/space Ll/space L/space Mm/space m/space Nn/space Nn/space Oo/space Pp/space Qq/space q/space Rr/space r/space r/space Ss/space Tt/space Uu/space U/space Vv/space Ww/space w/space Xx/space Yy/space Zz/space 12452679",
-"Aa/space Bbpnmhu/space Cca/space Dd/space Ee/space Ff/space CGHog/space Hh/space Ii/space Jj/space Kk/space Ll/space HMm/space Nn/space Oo/space PRHBp/space Qq/space Rr/space Ss/space Tt/space Uu/space Vv/space Ww/space Xx/space Yy/space Zz/space",
-"a(",
-"$¢",
-"l/lcaron",
-"/strokeshortcomb d/dcroat hh/hbar",
-"g/gcommaaccent/commaaccentcomb",
-"Rsting/space established",
 "H§"
 );
 customParameters = (
@@ -21934,7 +21925,7 @@ unicode = 00B6;
 },
 {
 glyphname = section;
-lastChange = "2025-07-03 10:20:44 +0000";
+lastChange = "2025-07-03 10:31:00 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -21978,11 +21969,11 @@ nodes = (
 "26 616 OFFCURVE",
 "26 479 CURVE SMOOTH",
 "26 224 OFFCURVE",
-"382 314 OFFCURVE",
-"382 235 CURVE SMOOTH",
-"382 217 OFFCURVE",
-"364 200 OFFCURVE",
-"342 190 CURVE",
+"402 314 OFFCURVE",
+"402 235 CURVE SMOOTH",
+"402 217 OFFCURVE",
+"384 200 OFFCURVE",
+"362 190 CURVE",
 "429 104 LINE"
 );
 },
@@ -21993,11 +21984,11 @@ nodes = (
 "624 -110 OFFCURVE",
 "624 21 CURVE SMOOTH",
 "624 263 OFFCURVE",
-"268 186 OFFCURVE",
-"268 267 CURVE SMOOTH",
-"268 280 OFFCURVE",
-"276 297 OFFCURVE",
-"294 312 CURVE",
+"248 186 OFFCURVE",
+"248 267 CURVE SMOOTH",
+"248 280 OFFCURVE",
+"256 297 OFFCURVE",
+"274 312 CURVE",
 "210 396 LINE",
 "138 396 OFFCURVE",
 "16 360 OFFCURVE",
@@ -27867,10 +27858,10 @@ fpID = "047F74F8-C2EE-4453-AD15-AB7DDCF5928D";
 };
 },
 {
-interpolationWeight = 340;
+interpolationWeight = 360;
 instanceInterpolations = {
-"83B83716-1CD1-47ED-B715-8773FED73F88" = 0.34;
-"D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.66;
+"83B83716-1CD1-47ED-B715-8773FED73F88" = 0.36;
+"D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.64;
 };
 name = Medium;
 userData = {
