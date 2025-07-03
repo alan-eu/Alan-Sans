@@ -6,7 +6,7 @@ DisplayStrings = (
 "Anna/space Keroulle\012Laure/space Boutmy\012Tiphaine/space Gillet\012Raphael/space Ronot",
 hwxkznnnnnznnn,
 "/minus 12×34+22",
-"H/H.sc h",
+Hh,
 tf
 );
 customParameters = (
@@ -32,7 +32,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature ordn;\012feature pnum;\012feature tnum;\012feature case;\012feature ss01;\012feature ss02;\012feature c2sc;\012";
+code = "feature locl;\012feature ordn;\012feature pnum;\012feature tnum;\012feature c2sc;\012feature case;\012feature ss01;\012feature ss02;\012";
 name = aalt;
 },
 {
@@ -18457,8 +18457,8 @@ rightMetricsKey = t;
 },
 {
 color = 1;
-glyphname = A.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = a.sc;
+lastChange = "2025-07-03 14:12:19 +0000";
 layers = (
 {
 anchors = (
@@ -18674,8 +18674,8 @@ source = A;
 },
 {
 color = 1;
-glyphname = B.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = b.sc;
+lastChange = "2025-07-03 14:12:22 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -18821,8 +18821,8 @@ source = B;
 },
 {
 color = 1;
-glyphname = C.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = c.sc;
+lastChange = "2025-07-03 14:12:24 +0000";
 layers = (
 {
 anchors = (
@@ -18983,8 +18983,8 @@ source = C;
 },
 {
 color = 1;
-glyphname = D.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = d.sc;
+lastChange = "2025-07-03 14:12:26 +0000";
 layers = (
 {
 anchors = (
@@ -19113,8 +19113,8 @@ source = D;
 },
 {
 color = 1;
-glyphname = E.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = e.sc;
+lastChange = "2025-07-03 14:12:28 +0000";
 layers = (
 {
 anchors = (
@@ -19516,8 +19516,8 @@ source = E;
 },
 {
 color = 1;
-glyphname = F.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = f.sc;
+lastChange = "2025-07-03 14:12:31 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -19688,8 +19688,8 @@ source = F;
 },
 {
 color = 1;
-glyphname = G.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = g.sc;
+lastChange = "2025-07-03 14:12:33 +0000";
 layers = (
 {
 anchors = (
@@ -19975,8 +19975,8 @@ source = G;
 },
 {
 color = 1;
-glyphname = H.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = h.sc;
+lastChange = "2025-07-03 14:12:35 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -20066,8 +20066,8 @@ source = H;
 },
 {
 color = 1;
-glyphname = I.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = i.sc;
+lastChange = "2025-07-03 14:12:37 +0000";
 layers = (
 {
 anchors = (
@@ -20158,8 +20158,8 @@ source = I;
 },
 {
 color = 1;
-glyphname = J.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = j.sc;
+lastChange = "2025-07-03 14:12:39 +0000";
 layers = (
 {
 anchors = (
@@ -20302,8 +20302,8 @@ source = J;
 },
 {
 color = 1;
-glyphname = K.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = k.sc;
+lastChange = "2025-07-03 14:12:41 +0000";
 layers = (
 {
 anchors = (
@@ -20544,8 +20544,8 @@ source = K;
 },
 {
 color = 1;
-glyphname = L.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = l.sc;
+lastChange = "2025-07-03 14:12:43 +0000";
 layers = (
 {
 anchors = (
@@ -20654,8 +20654,8 @@ source = L;
 },
 {
 color = 1;
-glyphname = M.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = m.sc;
+lastChange = "2025-07-03 14:12:45 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -20807,8 +20807,8 @@ source = M;
 },
 {
 color = 1;
-glyphname = N.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = n.sc;
+lastChange = "2025-07-03 14:12:47 +0000";
 layers = (
 {
 anchors = (
@@ -20952,8 +20952,8 @@ source = N;
 },
 {
 color = 1;
-glyphname = O.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = o.sc;
+lastChange = "2025-07-03 14:12:48 +0000";
 layers = (
 {
 anchors = (
@@ -21109,8 +21109,8 @@ source = O;
 },
 {
 color = 1;
-glyphname = P.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = p.sc;
+lastChange = "2025-07-03 14:12:52 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -21210,8 +21210,8 @@ source = P;
 },
 {
 color = 1;
-glyphname = Q.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = q.sc;
+lastChange = "2025-07-03 14:12:54 +0000";
 layers = (
 {
 anchors = (
@@ -21568,8 +21568,8 @@ source = Q;
 },
 {
 color = 1;
-glyphname = R.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = r.sc;
+lastChange = "2025-07-03 14:12:55 +0000";
 layers = (
 {
 anchors = (
@@ -21925,8 +21925,8 @@ source = R;
 },
 {
 color = 1;
-glyphname = S.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = s.sc;
+lastChange = "2025-07-03 14:12:58 +0000";
 layers = (
 {
 anchors = (
@@ -22212,8 +22212,8 @@ source = S;
 },
 {
 color = 1;
-glyphname = T.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = t.sc;
+lastChange = "2025-07-03 14:13:01 +0000";
 layers = (
 {
 anchors = (
@@ -22313,8 +22313,8 @@ source = T;
 },
 {
 color = 1;
-glyphname = U.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = u.sc;
+lastChange = "2025-07-03 14:13:04 +0000";
 layers = (
 {
 anchors = (
@@ -22433,8 +22433,8 @@ source = U;
 },
 {
 color = 1;
-glyphname = V.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = v.sc;
+lastChange = "2025-07-03 14:13:09 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -22507,8 +22507,8 @@ source = V;
 },
 {
 color = 1;
-glyphname = W.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = w.sc;
+lastChange = "2025-07-03 14:13:12 +0000";
 layers = (
 {
 anchors = (
@@ -22683,8 +22683,8 @@ source = W;
 },
 {
 color = 1;
-glyphname = X.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = x.sc;
+lastChange = "2025-07-03 14:13:16 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -22798,8 +22798,8 @@ source = X;
 },
 {
 color = 1;
-glyphname = Y.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = y.sc;
+lastChange = "2025-07-03 14:13:20 +0000";
 layers = (
 {
 anchors = (
@@ -22968,8 +22968,8 @@ source = Y;
 },
 {
 color = 1;
-glyphname = Z.sc;
-lastChange = "2025-07-03 13:49:13 +0000";
+glyphname = z.sc;
+lastChange = "2025-07-03 14:13:23 +0000";
 layers = (
 {
 anchors = (
@@ -33284,9 +33284,9 @@ A = {
 C = -70;
 V = -150;
 };
-A.sc = {
-C.sc = -69;
-V.sc = -147;
+a.sc = {
+c.sc = -69;
+v.sc = -147;
 };
 K = {
 e = -50;
@@ -33306,8 +33306,8 @@ v = -50;
 W = {
 A = -60;
 };
-W.sc = {
-A.sc = -59;
+w.sc = {
+a.sc = -59;
 };
 Y = {
 y = -100;
