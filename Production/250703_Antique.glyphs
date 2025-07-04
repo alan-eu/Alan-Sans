@@ -146,8 +146,7 @@ locked = 1;
 position = "{192, -100}";
 },
 {
-locked = 1;
-position = "{353, 198}";
+position = "{353, 180}";
 }
 );
 iconName = Bold;
@@ -12048,7 +12047,7 @@ source = Z;
 },
 {
 glyphname = a;
-lastChange = "2025-07-01 11:20:34 +0000";
+lastChange = "2025-07-04 12:22:29 +0000";
 layers = (
 {
 anchors = (
@@ -13101,8 +13100,8 @@ nodes = (
 "338 137 LINE",
 "342 101 LINE",
 "343 47 OFFCURVE",
-"344 15 OFFCURVE",
-"353 -2 CURVE",
+"344 17 OFFCURVE",
+"353 0 CURVE",
 "582 0 LINE"
 );
 },
@@ -23128,7 +23127,7 @@ rightMetricsKey = t;
 },
 {
 glyphname = ordfeminine;
-lastChange = "2025-07-03 10:01:35 +0000";
+lastChange = "2025-07-04 12:22:14 +0000";
 layers = (
 {
 components = (
@@ -23144,7 +23143,7 @@ width = 544;
 components = (
 {
 name = a;
-transform = "{1, 0, 0, 1, 0, 200}";
+transform = "{1, 0, 0, 1, 0, 180}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
@@ -23155,7 +23154,7 @@ unicode = 00AA;
 },
 {
 glyphname = ordmasculine;
-lastChange = "2025-06-25 14:31:14 +0000";
+lastChange = "2025-07-04 12:22:12 +0000";
 layers = (
 {
 components = (
@@ -23171,7 +23170,7 @@ width = 612;
 components = (
 {
 name = o;
-transform = "{1, 0, 0, 1, 0, 200}";
+transform = "{1, 0, 0, 1, 0, 180}";
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
