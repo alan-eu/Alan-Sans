@@ -4,8 +4,8 @@
     "fontProjects" : [
       {
         "familyName" : "Antique Extended",
-        "filePath" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
-        "id" : "C7DB9ED6-8760-4963-AE8D-529DA520ECE9",
+        "filePath" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
+        "id" : "4B2A23B4-4A09-4B19-AAB3-553571567A43",
         "type" : "GlyphsFormat3"
       }
     ],
@@ -22,19 +22,19 @@
             },
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
-            "fontWeight" : 400,
+            "fontWeight" : 300,
             "fontWidth" : 5,
             "styleName" : "Light",
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
               "ascender" : 720,
-              "capHeight" : 700,
+              "capHeight" : 680,
               "descender" : -200,
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
           "styleName" : "Light",
           "type" : "staticInstance"
         }
@@ -57,12 +57,12 @@
             "version" : "1.000",
             "verticalMetrics" : {
               "ascender" : 720,
-              "capHeight" : 700,
+              "capHeight" : 680,
               "descender" : -200,
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
           "styleName" : "Regular",
           "type" : "staticInstance"
         }
@@ -74,24 +74,52 @@
           "id" : "9AAC875F-C762-4CF2-B869-DEC24B68ECF1",
           "info" : {
             "axisValues" : {
-              "wght" : 450
+              "wght" : 380
             },
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
-            "fontWeight" : 400,
+            "fontWeight" : 500,
             "fontWidth" : 5,
             "styleName" : "Medium",
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
               "ascender" : 720,
-              "capHeight" : 700,
+              "capHeight" : 680,
               "descender" : -200,
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
           "styleName" : "Medium",
+          "type" : "staticInstance"
+        }
+      },
+      {
+        "active" : false,
+        "fontProjectStyle" : {
+          "active" : true,
+          "id" : "EF182B42-0DB6-477E-BCA1-79C7C1D2665D",
+          "info" : {
+            "axisValues" : {
+              "wght" : 560
+            },
+            "familyName" : "Antique Extended",
+            "fontSlant" : -0,
+            "fontWeight" : 600,
+            "fontWidth" : 5,
+            "styleName" : "Bold",
+            "upm" : 1000,
+            "version" : "1.000",
+            "verticalMetrics" : {
+              "ascender" : 720,
+              "capHeight" : 680,
+              "descender" : -200,
+              "xHeight" : 500
+            }
+          },
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
+          "styleName" : "Bold",
           "type" : "staticInstance"
         }
       },
@@ -106,20 +134,20 @@
             },
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
-            "fontWeight" : 400,
+            "fontWeight" : 700,
             "fontWidth" : 5,
-            "styleName" : "Bold",
+            "styleName" : "Black",
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
               "ascender" : 720,
-              "capHeight" : 700,
+              "capHeight" : 680,
               "descender" : -200,
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
-          "styleName" : "Bold",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
+          "styleName" : "Black",
           "type" : "staticInstance"
         }
       },
@@ -134,20 +162,20 @@
             },
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
-            "fontWeight" : 400,
+            "fontWeight" : 900,
             "fontWidth" : 5,
-            "styleName" : "Black",
+            "styleName" : "Heavy",
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
               "ascender" : 720,
-              "capHeight" : 700,
+              "capHeight" : 680,
               "descender" : -200,
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250625_Antique.glyphs",
-          "styleName" : "Black",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
+          "styleName" : "Heavy",
           "type" : "staticInstance"
         }
       }
@@ -155,9 +183,9 @@
   },
   "info" : {
     "lastExportedFiles" : [
-      "~/Documents/GitHub/Glyphs-files/Proofs/Font Proof Antique Extended 2025-06-26 - 10.37.36.pdf"
+      "~/Documents/GitHub/Glyphs-files/Proofs/Font Proof Antique Extended 2025-07-09 - 11.59.43.pdf"
     ],
-    "version" : 4
+    "version" : 5
   },
   "sections" : [
     {
@@ -258,8 +286,10 @@
       },
       "localizeDate" : true,
       "showDesigner" : true,
+      "showFamilyName" : true,
       "showFileName" : false,
       "showSectionName" : true,
+      "showStyleName" : true,
       "showVersion" : false
     },
     "labels" : {
@@ -268,8 +298,8 @@
       "fontSize" : 10
     },
     "pageSize" : {
-      "height" : 595.2755905511758,
-      "width" : 841.889763779519
+      "height" : 595.2755905511767,
+      "width" : 841.8897637795199
     },
     "removeEmptyGlyphs" : true,
     "units" : {
