@@ -4,8 +4,8 @@
     "fontProjects" : [
       {
         "familyName" : "Antique Extended",
-        "filePath" : "~/Documents/GitHub/Glyphs-files/Production/250627_Antique.glyphs",
-        "id" : "1D88430C-4F1C-4072-A820-395682085961",
+        "filePath" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
+        "id" : "4B2A23B4-4A09-4B19-AAB3-553571567A43",
         "type" : "GlyphsFormat3"
       }
     ],
@@ -22,19 +22,19 @@
             },
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
-            "fontWeight" : 400,
+            "fontWeight" : 300,
             "fontWidth" : 5,
             "styleName" : "Light",
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
               "ascender" : 720,
-              "capHeight" : 700,
+              "capHeight" : 680,
               "descender" : -200,
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250627_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
           "styleName" : "Light",
           "type" : "staticInstance"
         }
@@ -57,12 +57,12 @@
             "version" : "1.000",
             "verticalMetrics" : {
               "ascender" : 720,
-              "capHeight" : 700,
+              "capHeight" : 680,
               "descender" : -200,
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250627_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
           "styleName" : "Regular",
           "type" : "staticInstance"
         }
@@ -74,24 +74,52 @@
           "id" : "9AAC875F-C762-4CF2-B869-DEC24B68ECF1",
           "info" : {
             "axisValues" : {
-              "wght" : 450
+              "wght" : 380
             },
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
-            "fontWeight" : 400,
+            "fontWeight" : 500,
             "fontWidth" : 5,
             "styleName" : "Medium",
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
               "ascender" : 720,
-              "capHeight" : 700,
+              "capHeight" : 680,
               "descender" : -200,
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250627_Antique.glyphs",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
           "styleName" : "Medium",
+          "type" : "staticInstance"
+        }
+      },
+      {
+        "active" : false,
+        "fontProjectStyle" : {
+          "active" : true,
+          "id" : "EF182B42-0DB6-477E-BCA1-79C7C1D2665D",
+          "info" : {
+            "axisValues" : {
+              "wght" : 560
+            },
+            "familyName" : "Antique Extended",
+            "fontSlant" : -0,
+            "fontWeight" : 600,
+            "fontWidth" : 5,
+            "styleName" : "Bold",
+            "upm" : 1000,
+            "version" : "1.000",
+            "verticalMetrics" : {
+              "ascender" : 720,
+              "capHeight" : 680,
+              "descender" : -200,
+              "xHeight" : 500
+            }
+          },
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
+          "styleName" : "Bold",
           "type" : "staticInstance"
         }
       },
@@ -106,20 +134,20 @@
             },
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
-            "fontWeight" : 400,
+            "fontWeight" : 700,
             "fontWidth" : 5,
-            "styleName" : "Bold",
+            "styleName" : "Black",
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
               "ascender" : 720,
-              "capHeight" : 700,
+              "capHeight" : 680,
               "descender" : -200,
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250627_Antique.glyphs",
-          "styleName" : "Bold",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
+          "styleName" : "Black",
           "type" : "staticInstance"
         }
       },
@@ -134,20 +162,20 @@
             },
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
-            "fontWeight" : 400,
+            "fontWeight" : 900,
             "fontWidth" : 5,
-            "styleName" : "Black",
+            "styleName" : "Heavy",
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
               "ascender" : 720,
-              "capHeight" : 700,
+              "capHeight" : 680,
               "descender" : -200,
               "xHeight" : 500
             }
           },
-          "project" : "~/Documents/GitHub/Glyphs-files/Production/250627_Antique.glyphs",
-          "styleName" : "Black",
+          "project" : "~/Documents/GitHub/Glyphs-files/Production/250709_Antique.glyphs",
+          "styleName" : "Heavy",
           "type" : "staticInstance"
         }
       }
@@ -155,11 +183,11 @@
   },
   "info" : {
     "lastExportedFiles" : [
-      "~/Documents/GitHub/Glyphs-files/Proofs/1 Antique Extended Light 2025-06-26 - 10.39.43.pdf",
-      "~/Documents/GitHub/Glyphs-files/Proofs/2 Antique Extended Medium 2025-06-26 - 10.39.43.pdf",
-      "~/Documents/GitHub/Glyphs-files/Proofs/3 Antique Extended Black 2025-06-26 - 10.39.43.pdf"
+      "~/Documents/GitHub/Glyphs-files/Proofs/1 Antique Extended Light 2025-07-09 - 10.24.35.pdf",
+      "~/Documents/GitHub/Glyphs-files/Proofs/2 Antique Extended Medium 2025-07-09 - 10.24.35.pdf",
+      "~/Documents/GitHub/Glyphs-files/Proofs/3 Antique Extended Heavy 2025-07-09 - 10.24.35.pdf"
     ],
-    "version" : 4
+    "version" : 5
   },
   "sections" : [
     {
@@ -221,7 +249,7 @@
       "content" : "Les chiffres ne mentaient pas : 1,618 — le nombre d’or. 3,14159 — une autre constante universelle. Ses fichiers étaient nommés selon une logique rigoureuse : données_2025-Q2.xlsx, Résumé-final_v3.2.docx, ou encore facture#0048-CA.pdf. Le signe « @ » apparaissait partout, entre hashtags, pseudos, et adresses e-mail.\nPack my box with five dozen liquor jugs, whispered the cryptic thief, as he scanned the opulent vault. Éléonore adorait les mots rares : amphigouri, syzygie, époustouflant, ou encore flâner — ce verbe intraduisible qu’elle utilisait chaque dimanche en se promenant sans but précis. Elle collectionnait aussi les signes typographiques : guillemets français («  »), points de suspension… et tirets cadratins — qu’elle utilisait à bon escient. Dazzling jewels glistened beside oxidized bronze artifacts — an eclectic collection from Egypt, Zürich, and São Paulo. Kooky phrases like “fjord glyph buzz” echoed softly. 1234567890 — digits march along neatly, but test them with: $42.75, €99.00, ¥10,000, or £8.50. Try ALL CAPS for headlines: EVERY LETTER DESERVES CONSISTENCY AND CLARITY. À l’ombre d’un érable centenaire, Noémie écrivait ses pensées dans un carnet en cuir. « Le monde change, mais le parfum du café reste le même », nota-t-elle en souriant. Près d’elle, un renard roux traversait le sentier, disparaissant dans les fougères comme une virgule dans une phrase oubliée.\nQuaint though it was, the town wasn’t immune to progress. Satellite dishes bloomed atop stone chimneys, Wi-Fi signals pulsed through thick walls, and neighbors debated philosophy via group chat. Oddly enough, the blacksmith still shod horses on Tuesdays, his hammer echoing like an old Morse code beneath the birch trees. Matilda’s thesis — “On the Semiotics of Silence in 21st Century Cinema” — puzzled even her professors. Was a pause just a pause, or a statement in itself? She typed furiously, pausing only to sip her oolong tea or pet her cat, Felix (who, unlike Schrödinger’s, was definitively alive). Emails arrived in bursts: 9:01 AM, 9:01 AM, 9:02 AM. Subject lines screamed in ALL CAPS. Footnotes multiplied like rabbits: see §4.2, cf. Appendix B, ibid., et al. She sighed and adjusted the kerning manually, nudging the “W” and “A” until they nestled together like long-lost friends.\n\n\n\n\n\n",
       "design" : {
         "columnGutters" : [
-          22.677165354332402
+          22.677165354333404
         ],
         "columnQuantity" : 3,
         "continuousContent" : false,
@@ -240,7 +268,7 @@
       "content" : "Satellite dishes bloomed atop stone chimneys, Wi-Fi signals pulsed through thick walls, and neighbors debated philosophy via group chat.",
       "design" : {
         "columnGutters" : [
-          22.677165354332402
+          22.677165354333404
         ],
         "columnQuantity" : 2,
         "continuousContent" : false,
@@ -275,8 +303,10 @@
       },
       "localizeDate" : true,
       "showDesigner" : true,
+      "showFamilyName" : true,
       "showFileName" : false,
       "showSectionName" : true,
+      "showStyleName" : true,
       "showVersion" : false
     },
     "labels" : {
@@ -285,8 +315,8 @@
       "fontSize" : 10
     },
     "pageSize" : {
-      "height" : 595.2755905511748,
-      "width" : 841.8897637795179
+      "height" : 595.2755905511758,
+      "width" : 841.889763779519
     },
     "removeEmptyGlyphs" : true,
     "units" : {
