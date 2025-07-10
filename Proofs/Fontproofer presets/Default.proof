@@ -20,6 +20,7 @@
             "axisValues" : {
               "wght" : 0
             },
+            "designerName" : "Raphaël Ronot",
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
             "fontWeight" : 300,
@@ -28,9 +29,9 @@
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
-              "ascender" : 720,
+              "ascender" : 962,
               "capHeight" : 680,
-              "descender" : -200,
+              "descender" : -252,
               "xHeight" : 500
             }
           },
@@ -48,6 +49,7 @@
             "axisValues" : {
               "wght" : 220
             },
+            "designerName" : "Raphaël Ronot",
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
             "fontWeight" : 400,
@@ -56,9 +58,9 @@
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
-              "ascender" : 720,
+              "ascender" : 962,
               "capHeight" : 680,
-              "descender" : -200,
+              "descender" : -252,
               "xHeight" : 500
             }
           },
@@ -76,6 +78,7 @@
             "axisValues" : {
               "wght" : 380
             },
+            "designerName" : "Raphaël Ronot",
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
             "fontWeight" : 500,
@@ -84,9 +87,9 @@
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
-              "ascender" : 720,
+              "ascender" : 962,
               "capHeight" : 680,
-              "descender" : -200,
+              "descender" : -252,
               "xHeight" : 500
             }
           },
@@ -104,6 +107,7 @@
             "axisValues" : {
               "wght" : 560
             },
+            "designerName" : "Raphaël Ronot",
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
             "fontWeight" : 600,
@@ -112,9 +116,9 @@
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
-              "ascender" : 720,
+              "ascender" : 962,
               "capHeight" : 680,
-              "descender" : -200,
+              "descender" : -252,
               "xHeight" : 500
             }
           },
@@ -132,6 +136,7 @@
             "axisValues" : {
               "wght" : 800
             },
+            "designerName" : "Raphaël Ronot",
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
             "fontWeight" : 700,
@@ -140,9 +145,9 @@
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
-              "ascender" : 720,
+              "ascender" : 962,
               "capHeight" : 680,
-              "descender" : -200,
+              "descender" : -252,
               "xHeight" : 500
             }
           },
@@ -160,6 +165,7 @@
             "axisValues" : {
               "wght" : 1000
             },
+            "designerName" : "Raphaël Ronot",
             "familyName" : "Antique Extended",
             "fontSlant" : -0,
             "fontWeight" : 900,
@@ -168,9 +174,9 @@
             "upm" : 1000,
             "version" : "1.000",
             "verticalMetrics" : {
-              "ascender" : 720,
+              "ascender" : 962,
               "capHeight" : 680,
-              "descender" : -200,
+              "descender" : -252,
               "xHeight" : 500
             }
           },
