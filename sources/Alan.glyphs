@@ -6,8 +6,7 @@ DisplayStrings = (
 "/_circle ©BRP",
 "H/Hcircumflex né",
 "/.notdef",
-"$Épg",
-"/circumflexcomb H/Hcircumflex"
+"$Épg"
 );
 customParameters = (
 {
@@ -39,7 +38,7 @@ Tag = wght;
 );
 date = "2021-08-11 14:50:01 +0000";
 designerURL = "https://raphaelronot.com/";
-familyName = "Antique Extended";
+familyName = Alan;
 featurePrefixes = (
 {
 automatic = 1;
@@ -132,7 +131,6 @@ alignmentZones = (
 );
 ascender = 720;
 capHeight = 680;
-custom = Thin;
 customParameters = (
 {
 name = hheaAscender;
@@ -186,6 +184,7 @@ verticalStems = (
 60,
 64
 );
+weight = Light;
 weightValue = 0;
 xHeight = 500;
 },
@@ -30750,6 +30749,18 @@ fpID = "9AAC875F-C762-4CF2-B869-DEC24B68ECF1";
 weightClass = Medium;
 },
 {
+interpolationWeight = 380;
+instanceInterpolations = {
+"83B83716-1CD1-47ED-B715-8773FED73F88" = 0.38;
+"D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.62;
+};
+name = SemiBold;
+userData = {
+fpID = "9AAC875F-C762-4CF2-B869-DEC24B68ECF1";
+};
+weightClass = SemiBold;
+},
+{
 interpolationWeight = 560;
 instanceInterpolations = {
 "83B83716-1CD1-47ED-B715-8773FED73F88" = 0.56;
@@ -30759,7 +30770,7 @@ name = Bold;
 userData = {
 fpID = "EF182B42-0DB6-477E-BCA1-79C7C1D2665D";
 };
-weightClass = SemiBold;
+weightClass = Bold;
 },
 {
 interpolationWeight = 800;
@@ -30767,18 +30778,18 @@ instanceInterpolations = {
 "83B83716-1CD1-47ED-B715-8773FED73F88" = 0.8;
 "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.2;
 };
-name = Black;
+name = ExtraBold;
 userData = {
 fpID = "57D8397B-3EAC-4C68-BAD8-5D3C30DD0FB8";
 };
-weightClass = Bold;
+weightClass = ExtraBold;
 },
 {
 interpolationWeight = 1000;
 instanceInterpolations = {
 "83B83716-1CD1-47ED-B715-8773FED73F88" = 1;
 };
-name = Heavy;
+name = Black;
 userData = {
 fpID = "112FE7FA-B001-46D0-BF9E-C906AE7CAE14";
 };
