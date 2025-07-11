@@ -11,6 +11,7 @@ sources:
 # You don't have to supply the family name, but builds are slightly
 # faster if you do.
 familyName: "Alan"
+cleanUp: true
 
 # Next you can supply alternative paths for where you want the
 # binaries to live. But we'd recommend you stick to the defaults
@@ -66,6 +67,8 @@ stat:
   - name: Weight
     tag: wght
     values:
+    - name: Light
+      value: 300
     - name: Regular
       value: 400
       linkedValue: 700
@@ -76,3 +79,8 @@ stat:
       value: 600
     - name: Bold
       value: 700
+    - name: ExtraBold
+      value: 800
+    - name: Black
+      value: 900
+    
