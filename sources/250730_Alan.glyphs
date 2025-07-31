@@ -28174,11 +28174,18 @@ unicode = 005C;
 },
 {
 glyphname = periodcentered.loclCAT;
-lastChange = "2025-07-30 12:28:20 +0000";
+lastChange = "2025-07-31 12:40:22 +0000";
 layers = (
 {
+components = (
+{
+alignment = -1;
+name = period;
+transform = "{1, 0, 0, 1, 0, 220}";
+}
+);
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
-width = 600;
+width = 260;
 },
 {
 components = (
@@ -28194,11 +28201,17 @@ width = 260;
 },
 {
 glyphname = periodcentered.loclCAT.case;
-lastChange = "2025-07-30 12:28:28 +0000";
+lastChange = "2025-07-31 12:40:38 +0000";
 layers = (
 {
+components = (
+{
+name = period;
+transform = "{1, 0, 0, 1, 0, 220}";
+}
+);
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
-width = 600;
+width = 260;
 },
 {
 components = (
