@@ -9331,9 +9331,9 @@ leftKerningGroup = KO_N;
 rightKerningGroup = KO_H;
 },
 {
-color = 1;
-glyphname = G.ss01;
-lastChange = "2025-08-05 08:12:36 +0000";
+color = 3;
+glyphname = G.ss02;
+lastChange = "2025-08-05 08:13:43 +0000";
 layers = (
 {
 anchors = (
@@ -9841,13 +9841,14 @@ source = G;
 };
 },
 {
-glyphname = Gbreve.ss01;
-lastChange = "2025-08-05 08:10:08 +0000";
+color = 3;
+glyphname = Gbreve.ss02;
+lastChange = "2025-08-05 08:13:43 +0000";
 layers = (
 {
 components = (
 {
-name = G.ss01;
+name = G.ss02;
 },
 {
 name = brevecomb.case;
@@ -9860,7 +9861,7 @@ width = 752;
 {
 components = (
 {
-name = G.ss01;
+name = G.ss02;
 },
 {
 name = brevecomb.case;
@@ -9875,13 +9876,14 @@ leftKerningGroup = KO_G;
 rightKerningGroup = KO_H;
 },
 {
-glyphname = Gcircumflex.ss01;
-lastChange = "2025-08-05 08:10:14 +0000";
+color = 3;
+glyphname = Gcircumflex.ss02;
+lastChange = "2025-08-05 08:13:43 +0000";
 layers = (
 {
 components = (
 {
-name = G.ss01;
+name = G.ss02;
 },
 {
 name = circumflexcomb.case;
@@ -9894,7 +9896,7 @@ width = 752;
 {
 components = (
 {
-name = G.ss01;
+name = G.ss02;
 },
 {
 name = circumflexcomb.case;
@@ -9909,13 +9911,14 @@ leftKerningGroup = KO_G;
 rightKerningGroup = KO_H;
 },
 {
-glyphname = Gcommaaccent.ss01;
-lastChange = "2025-08-05 08:10:20 +0000";
+color = 3;
+glyphname = Gcommaaccent.ss02;
+lastChange = "2025-08-05 08:13:43 +0000";
 layers = (
 {
 components = (
 {
-name = G.ss01;
+name = G.ss02;
 },
 {
 name = commaaccentcomb;
@@ -9928,7 +9931,7 @@ width = 752;
 {
 components = (
 {
-name = G.ss01;
+name = G.ss02;
 },
 {
 name = commaaccentcomb;
@@ -9943,13 +9946,14 @@ leftKerningGroup = KO_G;
 rightKerningGroup = KO_H;
 },
 {
-glyphname = Gdotaccent.ss01;
-lastChange = "2025-08-05 08:10:25 +0000";
+color = 3;
+glyphname = Gdotaccent.ss02;
+lastChange = "2025-08-05 08:13:43 +0000";
 layers = (
 {
 components = (
 {
-name = G.ss01;
+name = G.ss02;
 },
 {
 name = dotaccentcomb.case;
@@ -9962,7 +9966,7 @@ width = 752;
 {
 components = (
 {
-name = G.ss01;
+name = G.ss02;
 },
 {
 name = dotaccentcomb.case;
@@ -9977,13 +9981,14 @@ leftKerningGroup = KO_G;
 rightKerningGroup = KO_H;
 },
 {
-glyphname = Gmacron.ss01;
-lastChange = "2025-08-05 08:10:29 +0000";
+color = 3;
+glyphname = Gmacron.ss02;
+lastChange = "2025-08-05 08:13:43 +0000";
 layers = (
 {
 components = (
 {
-name = G.ss01;
+name = G.ss02;
 },
 {
 name = macroncomb.case;
@@ -9996,7 +10001,7 @@ width = 752;
 {
 components = (
 {
-name = G.ss01;
+name = G.ss02;
 },
 {
 name = macroncomb.case;
@@ -19791,7 +19796,7 @@ unicode = 014D;
 },
 {
 glyphname = oslash;
-lastChange = "2025-06-27 08:35:29 +0000";
+lastChange = "2025-08-05 08:15:06 +0000";
 layers = (
 {
 components = (
@@ -19804,22 +19809,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"134 0 LINE",
-"193 72 LINE",
-"195 75 LINE",
-"484 425 LINE",
-"485 426 LINE",
-"546 500 LINE",
-"478 500 LINE",
-"417 426 LINE",
-"416 425 LINE",
-"127 75 LINE",
-"125 72 LINE",
-"66 0 LINE"
+"123 0 LINE",
+"182 72 LINE",
+"184 75 LINE",
+"471 425 LINE",
+"472 426 LINE",
+"532 500 LINE",
+"465 500 LINE",
+"404 426 LINE",
+"403 425 LINE",
+"116 75 LINE",
+"115 72 LINE",
+"56 0 LINE"
 );
 }
 );
-width = 612;
+width = 588;
 },
 {
 components = (
@@ -19832,25 +19837,27 @@ paths = (
 {
 closed = 1;
 nodes = (
-"167 0 LINE",
-"244 93 LINE",
-"270 136 LINE",
-"484 393 LINE",
-"516 420 LINE",
-"583 500 LINE",
-"443 500 LINE",
-"376 420 LINE",
-"364 393 LINE",
-"150 136 LINE",
-"104 93 LINE",
-"27 0 LINE"
+"164 0 LINE",
+"243 93 LINE",
+"271 136 LINE",
+"493 393 LINE",
+"526 420 LINE",
+"596 500 LINE",
+"450 500 LINE",
+"381 420 LINE",
+"369 393 LINE",
+"146 136 LINE",
+"98 93 LINE",
+"18 0 LINE"
 );
 }
 );
-width = 610;
+width = 614;
 }
 );
 leftKerningGroup = KO_oslash;
+leftMetricsKey = "=o";
+rightMetricsKey = "=o";
 unicode = 00F8;
 },
 {
