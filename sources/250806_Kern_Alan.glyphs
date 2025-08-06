@@ -10,7 +10,7 @@ DisplayStrings = (
 "MM\012",
 "AT\012EH\012TH\012VA\012av\012ov\012us\012ßv\012fonencesozjfg\012to\012\012CH\012HC\012MM\012dd\012eo\012gu\012nn\012oo\012pp\012uu\012qj\012ii\012ti\012\012CT\012ET\012HS\012LA\012TV\012VV\012vv\012gj\012st\012ku\012",
 "/Rcaron astapopoulos",
-"/alan alan\012/alan/a.ss01 l/a.ss01 n/space/space \012\012/space/space/space/space",
+"cea/space ea/space/space/space/space",
 "G/G.ss02/space M/M.ss02/space R/R.ss02/space E/E.ss04/space L/L.ss04/space R/R.ss04 \012a/a.ss01/space g/g.ss01/space y/y.ss01/space k/k.ss02/space l/l.ss02/space u/u.ss02/space/space \012\012\012",
 "/a.ss01/g.ss01/y.ss01/k.ss02/l.ss02/u.ss02"
 );
@@ -14803,7 +14803,7 @@ unicode = 00F0;
 {
 color = 1;
 glyphname = e;
-lastChange = "2025-08-06 10:02:56 +0000";
+lastChange = "2025-08-06 13:21:18 +0000";
 layers = (
 {
 anchors = (
@@ -14836,9 +14836,9 @@ nodes = (
 "118 118 OFFCURVE",
 "118 245 CURVE SMOOTH",
 "118 376 OFFCURVE",
-"192 458 OFFCURVE",
-"296 458 CURVE SMOOTH",
-"373 458 OFFCURVE",
+"192 460 OFFCURVE",
+"296 460 CURVE SMOOTH",
+"373 460 OFFCURVE",
 "416 414 OFFCURVE",
 "416 363 CURVE SMOOTH",
 "416 260 OFFCURVE",
@@ -14849,9 +14849,9 @@ nodes = (
 "478 224 OFFCURVE",
 "478 359 CURVE SMOOTH",
 "478 443 OFFCURVE",
-"406 510 OFFCURVE",
-"296 510 CURVE SMOOTH",
-"158 510 OFFCURVE",
+"406 512 OFFCURVE",
+"296 512 CURVE SMOOTH",
+"158 512 OFFCURVE",
 "56 404 OFFCURVE",
 "56 240 CURVE SMOOTH",
 "56 83 OFFCURVE",
