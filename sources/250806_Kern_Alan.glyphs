@@ -10,14 +10,13 @@ DisplayStrings = (
 "MM\012",
 "AT\012EH\012TH\012VA\012av\012ov\012us\012ßv\012fonencesozjfg\012to\012\012CH\012HC\012MM\012dd\012eo\012gu\012nn\012oo\012pp\012uu\012qj\012ii\012ti\012\012CT\012ET\012HS\012LA\012TV\012VV\012vv\012gj\012st\012ku\012",
 "/Rcaron astapopoulos",
-"cea/space ea/space/space/space/space",
 "G/G.ss02/space M/M.ss02/space R/R.ss02/space E/E.ss04/space L/L.ss04/space R/R.ss04 \012a/a.ss01/space g/g.ss01/space y/y.ss01/space k/k.ss02/space l/l.ss02/space u/u.ss02/space/space \012\012\012",
 "/a.ss01/g.ss01/y.ss01/k.ss02/l.ss02/u.ss02"
 );
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Lcommaaccent.loclMAH Ncommaaccent.loclMAH G.ss02 Gbreve.ss02 Gcircumflex.ss02 Gcommaaccent.ss02 Gdotaccent.ss02 Gmacron.ss02 M.ss02 R.ss02 Racute.ss02 Rcaron.ss02 Rcommaaccent.ss02 E.ss04 Eacute.ss04 Ecaron.ss04 Ecircumflex.ss04 Edieresis.ss04 Edotaccent.ss04 Egrave.ss04 Emacron.ss04 Eogonek.ss04 Etilde.ss04 L.ss04 Lacute.ss04 Lcaron.ss04 Lcommaaccent.ss04 Lslash.ss04 R.ss04 Racute.ss04 Rcaron.ss04 Rcommaaccent.ss04";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G Gbreve Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hcircumflex I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Lcommaaccent.loclMAH Ncommaaccent.loclMAH G.ss02 Gbreve.ss02 Gcircumflex.ss02 Gcommaaccent.ss02 Gdotaccent.ss02 Gmacron.ss02 M.ss02 R.ss02 Racute.ss02 Rcaron.ss02 Rcommaaccent.ss02 E.ss04 Eacute.ss04 Ecaron.ss04 Ecircumflex.ss04 Edieresis.ss04 Edotaccent.ss04 Egrave.ss04 Emacron.ss04 Eogonek.ss04 Etilde.ss04 L.ss04 Lacute.ss04 Lcaron.ss04 Lcommaaccent.ss04 Lslash.ss04 R.ss04 Racute.ss04 Rcaron.ss04 Rcommaaccent.ss04";
 name = Uppercase;
 }
 );
@@ -77,7 +76,7 @@ name = locl;
 },
 {
 automatic = 1;
-code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012sub N o period by numero;\012";
 name = ordn;
 },
 {
