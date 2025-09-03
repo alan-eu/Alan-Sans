@@ -120,13 +120,13 @@ name = liga;
 automatic = 1;
 code = "sub a by a.ss01;\012sub aacute by aacute.ss01;\012sub abreve by abreve.ss01;\012sub acircumflex by acircumflex.ss01;\012sub adieresis by adieresis.ss01;\012sub agrave by agrave.ss01;\012sub amacron by amacron.ss01;\012sub aogonek by aogonek.ss01;\012sub aring by aring.ss01;\012sub atilde by atilde.ss01;\012sub g by g.ss01;\012sub gbreve by gbreve.ss01;\012sub gcommaaccent by gcommaaccent.ss01;\012sub gdotaccent by gdotaccent.ss01;\012sub gmacron by gmacron.ss01;\012";
 name = ss01;
-notes = "Name: Monocular a, g";
+notes = "Name: Monocular a g";
 },
 {
 automatic = 1;
 code = "sub G by G.ss02;\012sub Gbreve by Gbreve.ss02;\012sub Gcircumflex by Gcircumflex.ss02;\012sub Gcommaaccent by Gcommaaccent.ss02;\012sub Gdotaccent by Gdotaccent.ss02;\012sub Gmacron by Gmacron.ss02;\012sub Q by Q.ss02;\012sub R by R.ss02;\012sub Racute by Racute.ss02;\012sub Rcaron by Rcaron.ss02;\012sub Rcommaaccent by Rcommaaccent.ss02;\012sub b by b.ss02;\012sub k by k.ss02;\012sub kcommaaccent by kcommaaccent.ss02;\012sub l by l.ss02;\012sub lacute by lacute.ss02;\012sub lcaron by lcaron.ss02;\012sub lcommaaccent by lcommaaccent.ss02;\012sub lslash by lslash.ss02;\012sub u by u.ss02;\012sub uacute by uacute.ss02;\012sub ubreve by ubreve.ss02;\012sub ucircumflex by ucircumflex.ss02;\012sub udieresis by udieresis.ss02;\012sub ugrave by ugrave.ss02;\012sub uhungarumlaut by uhungarumlaut.ss02;\012sub umacron by umacron.ss02;\012sub uogonek by uogonek.ss02;\012sub uring by uring.ss02;\012sub utilde by utilde.ss02;\012";
 name = ss02;
-notes = "Name: Simpler";
+notes = "Name: Modern";
 },
 {
 code = "sub zero by zero.alt;\012sub one by one.alt;\012sub two by two.alt;\012sub three by three.alt;\012sub four by four.alt;\012sub five by five.alt;\012sub six by six.alt;\012sub seven by seven.alt;\012sub eight by eight.alt;\012sub nine by nine.alt;\012";
