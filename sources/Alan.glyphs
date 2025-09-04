@@ -1,9 +1,7 @@
 {
 .appVersion = "3420";
 DisplayStrings = (
-"/Wacute/Wcircumflex/Wdieresis/Wgrave",
-"/aogonek",
-"/Aogonek/Eogonek/Iogonek U/Uogonek/aogonek/eogonek/iogonek u/uogonek/aogonek.ss01/uogonek.ss02"
+"/Eng"
 );
 classes = (
 {
@@ -5444,7 +5442,7 @@ unicode = 00D1;
 {
 color = 3;
 glyphname = Eng;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 09:28:49 +0000";
 layers = (
 {
 components = (
@@ -5457,30 +5455,30 @@ paths = (
 {
 closed = 1;
 nodes = (
-"595 -212 OFFCURVE",
-"648 -164 OFFCURVE",
-"648 -71 CURVE SMOOTH",
-"648 8 LINE",
-"166 593 LINE",
-"604 -27 LINE",
-"588 8 LINE",
-"588 -69 LINE SMOOTH",
-"588 -135 OFFCURVE",
-"555 -160 OFFCURVE",
-"518 -160 CURVE SMOOTH",
-"491 -160 OFFCURVE",
-"478 -147 OFFCURVE",
-"460 -147 CURVE SMOOTH",
-"443 -147 OFFCURVE",
-"436 -159 OFFCURVE",
-"436 -171 CURVE SMOOTH",
-"436 -197 OFFCURVE",
-"469 -212 OFFCURVE",
-"514 -212 CURVE SMOOTH"
+"593 -212 OFFCURVE",
+"646 -164 OFFCURVE",
+"646 -71 CURVE SMOOTH",
+"646 8 LINE",
+"164 593 LINE",
+"602 -27 LINE",
+"586 8 LINE",
+"586 -69 LINE SMOOTH",
+"586 -135 OFFCURVE",
+"553 -160 OFFCURVE",
+"516 -160 CURVE SMOOTH",
+"489 -160 OFFCURVE",
+"476 -147 OFFCURVE",
+"458 -147 CURVE SMOOTH",
+"441 -147 OFFCURVE",
+"434 -159 OFFCURVE",
+"434 -171 CURVE SMOOTH",
+"434 -197 OFFCURVE",
+"467 -212 OFFCURVE",
+"512 -212 CURVE SMOOTH"
 );
 }
 );
-width = 754;
+width = 752;
 },
 {
 components = (
@@ -5493,30 +5491,30 @@ paths = (
 {
 closed = 1;
 nodes = (
-"619 -212 OFFCURVE",
-"710 -149 OFFCURVE",
-"710 -2 CURVE SMOOTH",
-"710 106 LINE",
-"264 304 LINE",
-"545 -93 LINE",
-"494 127 LINE",
-"494 -3 LINE SMOOTH",
-"494 -23 OFFCURVE",
-"487 -32 OFFCURVE",
-"472 -32 CURVE SMOOTH",
-"462 -32 OFFCURVE",
-"449 -28 OFFCURVE",
-"434 -28 CURVE SMOOTH",
-"392 -28 OFFCURVE",
-"366 -59 OFFCURVE",
-"366 -105 CURVE SMOOTH",
-"366 -173 OFFCURVE",
-"424 -212 OFFCURVE",
-"510 -212 CURVE SMOOTH"
+"609 -212 OFFCURVE",
+"700 -149 OFFCURVE",
+"700 -2 CURVE SMOOTH",
+"700 106 LINE",
+"261 304 LINE",
+"532 -93 LINE",
+"484 127 LINE",
+"484 -3 LINE SMOOTH",
+"484 -23 OFFCURVE",
+"477 -32 OFFCURVE",
+"462 -32 CURVE SMOOTH",
+"452 -32 OFFCURVE",
+"439 -28 OFFCURVE",
+"424 -28 CURVE SMOOTH",
+"382 -28 OFFCURVE",
+"356 -59 OFFCURVE",
+"356 -105 CURVE SMOOTH",
+"356 -173 OFFCURVE",
+"414 -212 OFFCURVE",
+"500 -212 CURVE SMOOTH"
 );
 }
 );
-width = 748;
+width = 738;
 }
 );
 leftKerningGroup = KO_H;
