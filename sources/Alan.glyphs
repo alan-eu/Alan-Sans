@@ -1,7 +1,7 @@
 {
 .appVersion = "3420";
 DisplayStrings = (
-"Underplant/space Urtication/space Tetrachotomous/space Waxed/space Felled/space Rousted/space Bustards/space Realpolitik/space Cartonages/space Retrocognition/space Gromet/space Agents/space Estoril/space Aspirator/space Taunter/space Unsophisticate/space Tartine/space Ironmongery/space Parodying/space Depletes/space Tyrannising/space Unsoundness/space Mess-Jacket/space Malakatoone/space Platformed/space Sycophantizes/space Untenting/space Rousant/space Superjet/space Comfiest/space Crossbower/space White-Head/space Disinfects/space Superglue/space Panims/space Unconsecrated/space Tracer/space Tattooer/space Heterochronic/space Sutras/space Catmint/space Unsteel/space Messrs/space Cheeper/space Tigon/space Ennobles/space Narrowly/space Cladode/space Maeve/space Smugged/space Draw-String/space Laundering/space Philately/space Suboctuple/space Tiler/space Seborrhoea/space Loxodromics/space Granitisation/space Shula/space Geodetically/space Torch-Bearer/space Waltzed/space Xanthochroic/space Discomycete/space Home-Brew/space Thridace/space Osculatory/space Katharina/space Noviciates/space Clangouring"
+"Outward/space Handles:\012£\012\012Angled/space Handles:\012GGQR/G.ss02 aæg/idotless/jdotless 23557/two.osf/two.ss03/three.ss03/five.ss03/five.ss03/seven.ss03/seven.ss03 {{,,!!??£~~&/caroncomb.alt/caroncomb.alt/brevecomb/brevecomb/tildecomb/tildecomb/commaaccentcomb/cedillacomb/cedillacomb/brevecomb.case/brevecomb.case/tildecomb.case/tildecomb.case/tildecomb.narrow/tildecomb.narrow \012\012Shallow/space Curve:\012/cedillacomb \012\012Small/space Curve/space BBox:\012/Eng f/jdotless/eng {{/cedillacomb/cedillacomb \012\012Almost/space Orthogonal/space Lines:\012KRZ/R.ss02 akøtx/k.ss02 \012\012Short/space Line/space Segments:\012øt\012\012Bad/space Path/space Orientation:\012/Q.ss02/Q.ss02 ×\012\012"
 );
 classes = (
 {
@@ -9540,7 +9540,7 @@ unicode = 1EF8;
 {
 color = 6;
 glyphname = Z;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 10:00:46 +0000";
 layers = (
 {
 anchors = (
@@ -9582,7 +9582,7 @@ closed = 1;
 nodes = (
 "494 624 LINE",
 "556 636 LINE",
-"557 680 LINE",
+"556 680 LINE",
 "46 680 LINE",
 "46 624 LINE"
 );
@@ -11234,7 +11234,7 @@ rightKerningGroup = KO_R.ss02;
 {
 color = 6;
 glyphname = a;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 10:00:52 +0000";
 layers = (
 {
 anchors = (
@@ -12104,7 +12104,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"449 28 OFFCURVE",
+"449 29 OFFCURVE",
 "437 80 OFFCURVE",
 "437 138 CURVE SMOOTH",
 "437 358 LINE SMOOTH",
@@ -12131,7 +12131,7 @@ nodes = (
 "384 67 OFFCURVE",
 "393 21 OFFCURVE",
 "402 0 CURVE",
-"462 -1 LINE"
+"462 0 LINE"
 );
 },
 {
@@ -33070,7 +33070,7 @@ R = symbols;
 {
 color = 6;
 glyphname = sterling;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 10:00:16 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -33078,9 +33078,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"106 25 LINE",
-"389 25 OFFCURVE",
-"173 301 OFFCURVE",
+"566 0 LINE",
+"566 60 LINE",
+"200 60 LINE",
+"216 51 LINE",
+"316 122 OFFCURVE",
+"173 335 OFFCURVE",
 "173 484 CURVE SMOOTH",
 "173 581 OFFCURVE",
 "235 638 OFFCURVE",
@@ -33102,25 +33105,18 @@ nodes = (
 "111 485 CURVE SMOOTH",
 "111 296 OFFCURVE",
 "291 60 OFFCURVE",
-"106 60 CURVE"
+"106 60 CURVE SMOOTH",
+"53 60 LINE",
+"53 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"53 0 LINE",
-"566 0 LINE",
-"566 60 LINE",
-"53 60 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"20 316 LINE",
 "426 316 LINE",
 "426 368 LINE",
-"20 368 LINE"
+"20 368 LINE",
+"20 316 LINE"
 );
 }
 );
@@ -33132,9 +33128,12 @@ paths = (
 {
 closed = 1;
 nodes = (
-"98 122 LINE",
-"530 162 OFFCURVE",
-"326 339 OFFCURVE",
+"626 0 LINE",
+"626 210 LINE",
+"260 210 LINE",
+"285 160 LINE",
+"458 230 OFFCURVE",
+"326 361 OFFCURVE",
 "326 449 CURVE SMOOTH",
 "326 482 OFFCURVE",
 "344 500 OFFCURVE",
@@ -33156,25 +33155,18 @@ nodes = (
 "84 475 CURVE SMOOTH",
 "84 328 OFFCURVE",
 "206 210 OFFCURVE",
-"98 210 CURVE"
+"98 210 CURVE SMOOTH",
+"48 210 LINE",
+"48 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"48 0 LINE",
-"626 0 LINE",
-"626 210 LINE",
-"48 210 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"30 282 LINE",
 "496 282 LINE",
 "496 402 LINE",
-"30 402 LINE"
+"30 402 LINE",
+"30 282 LINE"
 );
 }
 );
