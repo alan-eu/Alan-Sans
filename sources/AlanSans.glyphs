@@ -342,10 +342,22 @@ value = 990;
 },
 {
 name = hheaDescender;
-value = 310;
+value = -310;
 },
 {
 name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 990;
+},
+{
+name = typoDescender;
+value = -310;
+},
+{
+name = typoLineGap;
 value = 0;
 },
 {
@@ -355,18 +367,6 @@ value = 952;
 {
 name = winDescent;
 value = 212;
-},
-{
-name = typoAscender;
-value = 962;
-},
-{
-name = typoDescender;
-value = -310;
-},
-{
-name = typoLineGap;
-value = 0;
 },
 {
 name = "Axis Location";
@@ -560,14 +560,6 @@ name = hheaLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 952;
-},
-{
-name = winDescent;
-value = 212;
-},
-{
 name = typoAscender;
 value = 990;
 },
@@ -578,6 +570,14 @@ value = -310;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = winAscent;
+value = 952;
+},
+{
+name = winDescent;
+value = 212;
 },
 {
 name = "Axis Location";
