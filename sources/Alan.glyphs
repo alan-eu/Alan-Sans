@@ -1,7 +1,8 @@
 {
 .appVersion = "3420";
 DisplayStrings = (
-"/Eng"
+"Underplant/space Urtication/space Tetrachotomous/space Waxed/space Felled/space Rousted/space Bustards/space Realpolitik/space Cartonages/space Retrocognition/space Gromet/space Agents/space Estoril/space Aspirator/space Taunter/space Unsophisticate/space Tartine/space Ironmongery/space Parodying/space Depletes/space Tyrannising/space Unsoundness/space Mess-Jacket/space Malakatoone/space Platformed/space Sycophantizes/space Untenting/space Rousant/space Superjet/space Comfiest/space Crossbower/space White-Head/space Disinfects/space Superglue/space Panims/space Unconsecrated/space Tracer/space Tattooer/space Heterochronic/space Sutras/space Catmint/space Unsteel/space Messrs/space Cheeper/space Tigon/space Ennobles/space Narrowly/space Cladode/space Maeve/space Smugged/space Draw-String/space Laundering/space Philately/space Suboctuple/space Tiler/space Seborrhoea/space Loxodromics/space Granitisation/space Shula/space Geodetically/space Torch-Bearer/space Waltzed/space Xanthochroic/space Discomycete/space Home-Brew/space Thridace/space Osculatory/space Katharina/space Noviciates/space Clangouring",
+"ð"
 );
 classes = (
 {
@@ -14409,7 +14410,7 @@ unicode = 0111;
 {
 color = 6;
 glyphname = eth;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 09:44:43 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -14465,10 +14466,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"112 521 LINE",
-"518 665 LINE",
-"518 720 LINE",
-"112 576 LINE"
+"188 526 LINE",
+"473 625 LINE",
+"473 676 LINE",
+"188 577 LINE"
 );
 }
 );
@@ -14476,6 +14477,136 @@ width = 588;
 },
 {
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
+paths = (
+{
+closed = 1;
+nodes = (
+"14 77 OFFCURVE",
+"129 -12 OFFCURVE",
+"304 -12 CURVE SMOOTH",
+"488 -12 OFFCURVE",
+"592 84 OFFCURVE",
+"592 279 CURVE",
+"385 381 LINE",
+"365 429 OFFCURVE",
+"318 476 OFFCURVE",
+"226 476 CURVE SMOOTH",
+"99 476 OFFCURVE",
+"14 387 OFFCURVE",
+"14 244 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"242 276 OFFCURVE",
+"268 300 OFFCURVE",
+"304 300 CURVE SMOOTH",
+"339 300 OFFCURVE",
+"364 277 OFFCURVE",
+"364 233 CURVE SMOOTH",
+"364 187 OFFCURVE",
+"338 164 OFFCURVE",
+"302 164 CURVE SMOOTH",
+"267 164 OFFCURVE",
+"242 186 OFFCURVE",
+"242 231 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"135 680 LINE",
+"315 555 OFFCURVE",
+"383 419 OFFCURVE",
+"383 284 CURVE",
+"592 279 LINE",
+"592 448 OFFCURVE",
+"515 628 OFFCURVE",
+"362 720 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"129 490 LINE",
+"538 589 LINE",
+"538 712 LINE",
+"129 613 LINE"
+);
+}
+);
+width = 606;
+},
+{
+associatedMasterId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
+layerId = "A8430C98-FACF-4670-A4C6-C740AF664D65";
+name = "4 Sep 25 at 11:44";
+paths = (
+{
+closed = 1;
+nodes = (
+"54 77 OFFCURVE",
+"153 -12 OFFCURVE",
+"291 -12 CURVE SMOOTH",
+"441 -12 OFFCURVE",
+"534 87 OFFCURVE",
+"534 257 CURVE",
+"467 375 LINE",
+"429 436 OFFCURVE",
+"359 460 OFFCURVE",
+"290 460 CURVE SMOOTH",
+"154 460 OFFCURVE",
+"54 369 OFFCURVE",
+"54 222 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"116 339 OFFCURVE",
+"193 408 OFFCURVE",
+"297 408 CURVE SMOOTH",
+"398 408 OFFCURVE",
+"472 342 OFFCURVE",
+"472 227 CURVE SMOOTH",
+"472 109 OFFCURVE",
+"395 40 OFFCURVE",
+"291 40 CURVE SMOOTH",
+"190 40 OFFCURVE",
+"116 106 OFFCURVE",
+"116 221 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"158 700 LINE",
+"352 614 OFFCURVE",
+"476 449 OFFCURVE",
+"476 277 CURVE",
+"534 257 LINE",
+"534 453 OFFCURVE",
+"410 639 OFFCURVE",
+"225 720 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"112 521 LINE",
+"518 665 LINE",
+"518 719 LINE",
+"112 575 LINE"
+);
+}
+);
+width = 588;
+},
+{
+associatedMasterId = "83B83716-1CD1-47ED-B715-8773FED73F88";
+layerId = "4D186FE6-0938-4C53-90AC-7C21D4DB100B";
+name = "4 Sep 25 at 11:44";
 paths = (
 {
 closed = 1;
