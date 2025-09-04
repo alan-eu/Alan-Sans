@@ -1,4 +1,4 @@
-Copyright 2025 The Alan Project Authors (https://github.com/alan-eu/Glyphs-files)
+Copyright 2025 The Alan Sans Project Authors (https://github.com/alan-eu/Alan-Sans)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
