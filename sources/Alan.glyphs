@@ -2,7 +2,7 @@
 .appVersion = "3420";
 DisplayStrings = (
 "Underplant/space Urtication/space Tetrachotomous/space Waxed/space Felled/space Rousted/space Bustards/space Realpolitik/space Cartonages/space Retrocognition/space Gromet/space Agents/space Estoril/space Aspirator/space Taunter/space Unsophisticate/space Tartine/space Ironmongery/space Parodying/space Depletes/space Tyrannising/space Unsoundness/space Mess-Jacket/space Malakatoone/space Platformed/space Sycophantizes/space Untenting/space Rousant/space Superjet/space Comfiest/space Crossbower/space White-Head/space Disinfects/space Superglue/space Panims/space Unconsecrated/space Tracer/space Tattooer/space Heterochronic/space Sutras/space Catmint/space Unsteel/space Messrs/space Cheeper/space Tigon/space Ennobles/space Narrowly/space Cladode/space Maeve/space Smugged/space Draw-String/space Laundering/space Philately/space Suboctuple/space Tiler/space Seborrhoea/space Loxodromics/space Granitisation/space Shula/space Geodetically/space Torch-Bearer/space Waltzed/space Xanthochroic/space Discomycete/space Home-Brew/space Thridace/space Osculatory/space Katharina/space Noviciates/space Clangouring",
-"©",
+"®",
 "/zero.osf/one.osf/two.osf/three.osf/four.osf/five.osf/six.osf/seven.osf/eight.osf/nine.osf"
 );
 classes = (
@@ -35238,7 +35238,7 @@ R = symbols;
 {
 color = 3;
 glyphname = registered;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 09:53:16 +0000";
 layers = (
 {
 components = (
@@ -35305,6 +35305,66 @@ name = _circle;
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
+paths = (
+{
+closed = 1;
+nodes = (
+"611 120 LINE",
+"568 212 OFFCURVE",
+"641 324 OFFCURVE",
+"432 324 CURVE SMOOTH",
+"324 324 LINE",
+"324 240 LINE",
+"376 240 LINE SMOOTH",
+"435 240 OFFCURVE",
+"407 168 OFFCURVE",
+"424 120 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"358 120 LINE",
+"358 560 LINE",
+"192 560 LINE",
+"192 120 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"384 282 LINE SMOOTH",
+"510 282 OFFCURVE",
+"607 313 OFFCURVE",
+"607 419 CURVE SMOOTH",
+"607 512 OFFCURVE",
+"530 560 OFFCURVE",
+"417 560 CURVE SMOOTH",
+"273 560 LINE",
+"273 430 LINE",
+"382 430 LINE SMOOTH",
+"415 430 OFFCURVE",
+"427 419 OFFCURVE",
+"427 400 CURVE SMOOTH",
+"427 381 OFFCURVE",
+"415 370 OFFCURVE",
+"382 370 CURVE SMOOTH",
+"273 370 LINE",
+"273 282 LINE"
+);
+}
+);
+width = 780;
+},
+{
+associatedMasterId = "83B83716-1CD1-47ED-B715-8773FED73F88";
+components = (
+{
+name = _circle;
+}
+);
+layerId = "A8AA50A5-EA3B-4B76-BE9D-3BC8712B4868";
+name = "4 Sep 25 at 11:53";
 paths = (
 {
 closed = 1;
