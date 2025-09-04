@@ -2,7 +2,7 @@
 .appVersion = "3420";
 DisplayStrings = (
 "Underplant/space Urtication/space Tetrachotomous/space Waxed/space Felled/space Rousted/space Bustards/space Realpolitik/space Cartonages/space Retrocognition/space Gromet/space Agents/space Estoril/space Aspirator/space Taunter/space Unsophisticate/space Tartine/space Ironmongery/space Parodying/space Depletes/space Tyrannising/space Unsoundness/space Mess-Jacket/space Malakatoone/space Platformed/space Sycophantizes/space Untenting/space Rousant/space Superjet/space Comfiest/space Crossbower/space White-Head/space Disinfects/space Superglue/space Panims/space Unconsecrated/space Tracer/space Tattooer/space Heterochronic/space Sutras/space Catmint/space Unsteel/space Messrs/space Cheeper/space Tigon/space Ennobles/space Narrowly/space Cladode/space Maeve/space Smugged/space Draw-String/space Laundering/space Philately/space Suboctuple/space Tiler/space Seborrhoea/space Loxodromics/space Granitisation/space Shula/space Geodetically/space Torch-Bearer/space Waltzed/space Xanthochroic/space Discomycete/space Home-Brew/space Thridace/space Osculatory/space Katharina/space Noviciates/space Clangouring",
-"ð"
+"7"
 );
 classes = (
 {
@@ -26295,7 +26295,7 @@ unicode = 0032;
 {
 color = 6;
 glyphname = three;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 09:47:59 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -26306,39 +26306,12 @@ nodes = (
 "418 -12 OFFCURVE",
 "534 47 OFFCURVE",
 "534 181 CURVE SMOOTH",
-"534 360 OFFCURVE",
-"333 373 OFFCURVE",
-"231 373 CURVE",
-"231 326 LINE",
-"358 326 OFFCURVE",
-"470 288 OFFCURVE",
-"470 180 CURVE SMOOTH",
-"470 95 OFFCURVE",
-"399 44 OFFCURVE",
-"280 44 CURVE SMOOTH",
-"200 44 OFFCURVE",
-"133 67 OFFCURVE",
-"70 97 CURVE",
-"70 39 LINE",
-"125 8 OFFCURVE",
-"194 -12 OFFCURVE",
-"277 -12 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"231 326 LINE",
-"231 384 LINE",
-"161 384 LINE",
-"161 326 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"390 343 OFFCURVE",
-"515 373 OFFCURVE",
+"534 297 OFFCURVE",
+"451 342 OFFCURVE",
+"364 361 CURVE",
+"361 353 LINE",
+"452 369 OFFCURVE",
+"515 412 OFFCURVE",
 "515 505 CURVE SMOOTH",
 "515 613 OFFCURVE",
 "431 692 OFFCURVE",
@@ -26360,8 +26333,23 @@ nodes = (
 "451 505 CURVE SMOOTH",
 "451 410 OFFCURVE",
 "354 384 OFFCURVE",
-"231 384 CURVE",
-"231 343 LINE"
+"231 384 CURVE SMOOTH",
+"161 384 LINE",
+"161 326 LINE",
+"231 326 LINE SMOOTH",
+"358 326 OFFCURVE",
+"470 288 OFFCURVE",
+"470 180 CURVE SMOOTH",
+"470 95 OFFCURVE",
+"399 44 OFFCURVE",
+"280 44 CURVE SMOOTH",
+"200 44 OFFCURVE",
+"133 67 OFFCURVE",
+"70 97 CURVE",
+"70 39 LINE",
+"125 8 OFFCURVE",
+"194 -12 OFFCURVE",
+"277 -12 CURVE SMOOTH"
 );
 }
 );
@@ -26376,39 +26364,12 @@ nodes = (
 "495 -12 OFFCURVE",
 "620 58 OFFCURVE",
 "620 199 CURVE SMOOTH",
-"620 307 OFFCURVE",
-"548 397 OFFCURVE",
-"222 369 CURVE",
-"222 233 LINE",
-"315 233 OFFCURVE",
-"364 231 OFFCURVE",
-"364 208 CURVE SMOOTH",
-"364 191 OFFCURVE",
-"337 178 OFFCURVE",
-"271 178 CURVE SMOOTH",
-"206 178 OFFCURVE",
-"135 190 OFFCURVE",
-"56 213 CURVE",
-"56 19 LINE",
-"111 2 OFFCURVE",
-"190 -12 OFFCURVE",
-"284 -12 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"222 233 LINE",
-"222 413 LINE",
-"187 413 LINE",
-"187 233 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"516 302 OFFCURVE",
-"600 371 OFFCURVE",
+"620 282 OFFCURVE",
+"579 352 OFFCURVE",
+"415 372 CURVE",
+"427 318 LINE",
+"558 347 OFFCURVE",
+"600 404 OFFCURVE",
 "600 485 CURVE SMOOTH",
 "600 618 OFFCURVE",
 "489 692 OFFCURVE",
@@ -26430,8 +26391,23 @@ nodes = (
 "354 467 CURVE SMOOTH",
 "354 428 OFFCURVE",
 "294 413 OFFCURVE",
-"221 413 CURVE",
-"221 297 LINE"
+"222 413 CURVE SMOOTH",
+"187 413 LINE",
+"187 233 LINE",
+"222 233 LINE SMOOTH",
+"315 233 OFFCURVE",
+"364 231 OFFCURVE",
+"364 208 CURVE SMOOTH",
+"364 191 OFFCURVE",
+"337 178 OFFCURVE",
+"271 178 CURVE SMOOTH",
+"206 178 OFFCURVE",
+"135 190 OFFCURVE",
+"56 213 CURVE",
+"56 19 LINE",
+"111 2 OFFCURVE",
+"190 -12 OFFCURVE",
+"284 -12 CURVE SMOOTH"
 );
 }
 );
@@ -27091,7 +27067,7 @@ unicode = 0036;
 {
 color = 6;
 glyphname = seven;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 09:48:21 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -27099,8 +27075,8 @@ paths = (
 {
 closed = 1;
 nodes = (
-"297 1 LINE",
-"281 473 OFFCURVE",
+"297 0 LINE",
+"281 472 OFFCURVE",
 "554 560 OFFCURVE",
 "554 646 CURVE SMOOTH",
 "554 668 OFFCURVE",
