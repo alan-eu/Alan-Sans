@@ -39527,6 +39527,7 @@ instanceInterpolations = {
 "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE" = 0.42;
 };
 isBold = 1;
+linkStyle = Regular;
 name = Bold;
 userData = {
 fpID = "EF182B42-0DB6-477E-BCA1-79C7C1D2665D";
@@ -60617,7 +60618,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2025 The Alan Sans Project Authors (https://github.com/alan-eu/Glyphs-files)";
+value = "Copyright 2025 The Alan Sans Project Authors (https://github.com/alan-eu/Alan-Sans)";
 }
 );
 },
