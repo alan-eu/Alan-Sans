@@ -2,7 +2,8 @@
 .appVersion = "3420";
 DisplayStrings = (
 "Underplant/space Urtication/space Tetrachotomous/space Waxed/space Felled/space Rousted/space Bustards/space Realpolitik/space Cartonages/space Retrocognition/space Gromet/space Agents/space Estoril/space Aspirator/space Taunter/space Unsophisticate/space Tartine/space Ironmongery/space Parodying/space Depletes/space Tyrannising/space Unsoundness/space Mess-Jacket/space Malakatoone/space Platformed/space Sycophantizes/space Untenting/space Rousant/space Superjet/space Comfiest/space Crossbower/space White-Head/space Disinfects/space Superglue/space Panims/space Unconsecrated/space Tracer/space Tattooer/space Heterochronic/space Sutras/space Catmint/space Unsteel/space Messrs/space Cheeper/space Tigon/space Ennobles/space Narrowly/space Cladode/space Maeve/space Smugged/space Draw-String/space Laundering/space Philately/space Suboctuple/space Tiler/space Seborrhoea/space Loxodromics/space Granitisation/space Shula/space Geodetically/space Torch-Bearer/space Waltzed/space Xanthochroic/space Discomycete/space Home-Brew/space Thridace/space Osculatory/space Katharina/space Noviciates/space Clangouring",
-"7"
+"}",
+"/zero.osf/one.osf/two.osf/three.osf/four.osf/five.osf/six.osf/seven.osf/eight.osf/nine.osf"
 );
 classes = (
 {
@@ -30729,7 +30730,7 @@ L = parenthesis;
 {
 color = 6;
 glyphname = braceleft;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 09:50:27 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -30737,27 +30738,58 @@ paths = (
 {
 closed = 1;
 nodes = (
-"20 290 LINE",
-"398 290 OFFCURVE",
-"-13 702 OFFCURVE",
-"284 652 CURVE",
-"284 700 LINE",
-"-89 740 OFFCURVE",
-"306 324 OFFCURVE",
-"20 324 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"306 276 OFFCURVE",
-"-89 -140 OFFCURVE",
+"20 276 LINE",
+"111 276 OFFCURVE",
+"133 234 OFFCURVE",
+"133 178 CURVE SMOOTH",
+"133 124 OFFCURVE",
+"112 57 OFFCURVE",
+"112 2 CURVE SMOOTH",
+"112 -58 OFFCURVE",
+"136 -103 OFFCURVE",
+"237 -103 CURVE SMOOTH",
+"251 -103 OFFCURVE",
+"267 -102 OFFCURVE",
 "284 -100 CURVE",
 "284 -52 LINE",
-"-13 -102 OFFCURVE",
-"398 310 OFFCURVE",
-"20 310 CURVE",
-"20 276 LINE"
+"267 -55 OFFCURVE",
+"252 -56 OFFCURVE",
+"239 -56 CURVE SMOOTH",
+"183 -56 OFFCURVE",
+"167 -29 OFFCURVE",
+"167 11 CURVE SMOOTH",
+"167 60 OFFCURVE",
+"191 127 OFFCURVE",
+"191 186 CURVE SMOOTH",
+"191 243 OFFCURVE",
+"169 292 OFFCURVE",
+"79 306 CURVE",
+"79 294 LINE",
+"169 308 OFFCURVE",
+"191 357 OFFCURVE",
+"191 415 CURVE SMOOTH",
+"191 473 OFFCURVE",
+"168 541 OFFCURVE",
+"168 589 CURVE SMOOTH",
+"168 629 OFFCURVE",
+"183 656 OFFCURVE",
+"240 656 CURVE SMOOTH",
+"252 656 OFFCURVE",
+"267 655 OFFCURVE",
+"284 652 CURVE",
+"284 700 LINE",
+"267 702 OFFCURVE",
+"252 703 OFFCURVE",
+"238 703 CURVE SMOOTH",
+"137 703 OFFCURVE",
+"112 657 OFFCURVE",
+"112 598 CURVE SMOOTH",
+"112 543 OFFCURVE",
+"133 475 OFFCURVE",
+"133 421 CURVE SMOOTH",
+"133 366 OFFCURVE",
+"111 324 OFFCURVE",
+"20 324 CURVE"
 );
 }
 );
@@ -30769,27 +30801,58 @@ paths = (
 {
 closed = 1;
 nodes = (
-"20 264 LINE",
-"492 264 OFFCURVE",
-"141 524 OFFCURVE",
-"364 504 CURVE",
-"364 680 LINE",
-"-129 720 OFFCURVE",
-"222 378 OFFCURVE",
-"20 378 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"222 202 OFFCURVE",
-"-129 -140 OFFCURVE",
+"20 202 LINE",
+"78 202 OFFCURVE",
+"90 174 OFFCURVE",
+"90 135 CURVE SMOOTH",
+"90 105 OFFCURVE",
+"83 69 OFFCURVE",
+"83 33 CURVE SMOOTH",
+"83 -37 OFFCURVE",
+"113 -103 OFFCURVE",
+"290 -103 CURVE SMOOTH",
+"312 -103 OFFCURVE",
+"337 -102 OFFCURVE",
 "364 -100 CURVE",
 "364 76 LINE",
-"141 56 OFFCURVE",
-"492 316 OFFCURVE",
-"20 316 CURVE",
-"20 202 LINE"
+"356 75 OFFCURVE",
+"349 75 OFFCURVE",
+"342 75 CURVE SMOOTH",
+"291 75 OFFCURVE",
+"281 95 OFFCURVE",
+"281 123 CURVE SMOOTH",
+"281 143 OFFCURVE",
+"286 166 OFFCURVE",
+"286 190 CURVE SMOOTH",
+"286 248 OFFCURVE",
+"257 308 OFFCURVE",
+"58 316 CURVE",
+"58 265 LINE",
+"257 271 OFFCURVE",
+"286 331 OFFCURVE",
+"286 390 CURVE SMOOTH",
+"286 413 OFFCURVE",
+"281 437 OFFCURVE",
+"281 456 CURVE SMOOTH",
+"281 485 OFFCURVE",
+"291 505 OFFCURVE",
+"342 505 CURVE SMOOTH",
+"349 505 OFFCURVE",
+"356 505 OFFCURVE",
+"364 504 CURVE",
+"364 680 LINE",
+"337 682 OFFCURVE",
+"312 683 OFFCURVE",
+"289 683 CURVE SMOOTH",
+"112 683 OFFCURVE",
+"83 617 OFFCURVE",
+"83 546 CURVE SMOOTH",
+"83 511 OFFCURVE",
+"90 475 OFFCURVE",
+"90 445 CURVE SMOOTH",
+"90 406 OFFCURVE",
+"78 378 OFFCURVE",
+"20 378 CURVE"
 );
 }
 );
