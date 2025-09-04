@@ -10,7 +10,7 @@ DisplayStrings = (
 "nnnnnofnnnn\012HHHAOHHH\012HHHKOHHH/space \012OA/space QAVA\012HHHHAVHHHEOHHOO\012HHHHPVHHHPTH\012HHHkCHHHaf/space nf/space Bfn\012Tzn/quoteright e/quoteright a'/quoteright gp'/quoteright/space Tn/space Ton/space k-/space r-\012don/quoteright t/space move",
 "AA\012AO\012EO\012KH\012KO\012LA\012LT\012TA\012Ag\012Sw\012Tn\012To\012Tô\012Vo\012Yo\012At\012Bf\012Al\012ga\012go\012nx\012ra\012va\012xo\012af\012of\012xt\012ßt\012f.\012,U\012F,\012H,\012P,\012*o\012n'\012n/quoteright \012/quoteleft g\012/quoteright a\012/quoteright f\012/quoteright o/quoteright \012/quoteright s\012don/quoteright t/space 'tl,/space n./space y,/space f./space R,/space H,/space L,/space O/quoteright A/space 'H,/space L,/space ouais,/space bon,/space on/space va/space pas/space discuter./space Hum,/space Hum,/space hum,/space hmmm.\012\012/space A\012/quoteright A/space L'\012L/quoteright \012/quoteleft O/space O/quoteright A\012-f\012g-\012k-\012r-\012kC\012ko\012kw\012tw/space h/quoteright l\012\012EH\012HH\012OO\012ST\012TH\012nn\012oo\012n.\012f:\012n-\012ku\012\012ET\012TT\012Y/itilde \012rt\012/dcaron f\012/dcaron h\012/dcaron t\012n!\012r:\012î?\012H!\012P:\012f'\012fT\012fï\012f/itilde \012\012L/quoteright/quoteright A/quoteright/space 'A'/space O/quoteright A/space CL,H\012L/quoteright .'A/space Bf/space Hknnnntznn\012nivaid/space nisaid/space",
 "Quality/space big/space karma\012/Q.ss02/u.ss02/a.ss01/l.ss02 ity/space/b.ss02 i/g.ss01/space/k.ss02/a.ss01 rm/a.ss01/space xo\012sa/space va/space/space",
-"It/quoteright s"
+"/three.alt/seven.alt"
 );
 classes = (
 {
@@ -29945,7 +29945,7 @@ rightKerningGroup = KO_two.alt;
 {
 color = 4;
 glyphname = three.alt;
-lastChange = "2025-09-03 08:22:25 +0000";
+lastChange = "2025-09-04 08:24:01 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -30021,9 +30021,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"141 -4 OFFCURVE",
-"204 -12 OFFCURVE",
-"284 -12 CURVE SMOOTH",
 "495 -12 OFFCURVE",
 "620 58 OFFCURVE",
 "620 199 CURVE SMOOTH",
@@ -30077,7 +30074,10 @@ nodes = (
 "26 119 CURVE SMOOTH",
 "26 67 OFFCURVE",
 "55 35 OFFCURVE",
-"97 16 CURVE SMOOTH"
+"97 16 CURVE SMOOTH",
+"141 -4 OFFCURVE",
+"204 -12 OFFCURVE",
+"284 -12 CURVE SMOOTH"
 );
 }
 );
@@ -30762,7 +30762,7 @@ rightKerningGroup = KO_six;
 {
 color = 4;
 glyphname = seven.alt;
-lastChange = "2025-09-03 08:11:29 +0000";
+lastChange = "2025-09-04 08:23:56 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -30770,7 +30770,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"263 -11 CURVE SMOOTH",
 "285 -11 OFFCURVE",
 "296 5 OFFCURVE",
 "296 30 CURVE SMOOTH",
@@ -30793,7 +30792,8 @@ nodes = (
 "238 304 OFFCURVE",
 "231 27 CURVE SMOOTH",
 "231 3 OFFCURVE",
-"243 -11 OFFCURVE"
+"243 -11 OFFCURVE",
+"263 -11 CURVE SMOOTH"
 );
 }
 );
@@ -30805,10 +30805,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"170 139 CURVE SMOOTH",
-"170 36 OFFCURVE",
-"213 -12 OFFCURVE",
-"291 -12 CURVE SMOOTH",
 "370 -12 OFFCURVE",
 "410 35 OFFCURVE",
 "415 139 CURVE SMOOTH",
@@ -30828,7 +30824,11 @@ nodes = (
 "417 470 LINE",
 "391 505 LINE",
 "254 404 OFFCURVE",
-"170 287 OFFCURVE"
+"170 287 OFFCURVE",
+"170 139 CURVE SMOOTH",
+"170 36 OFFCURVE",
+"213 -12 OFFCURVE",
+"291 -12 CURVE SMOOTH"
 );
 }
 );
@@ -31187,7 +31187,7 @@ rightMetricsKey = "=|";
 },
 {
 glyphname = one.osf;
-lastChange = "2025-09-03 08:26:52 +0000";
+lastChange = "2025-09-04 08:23:43 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -31204,13 +31204,16 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"284 512 LINE",
+"288 514 LINE",
 "314 560 LINE",
-"250 560 LINE",
-"102 488 LINE SMOOTH",
-"38 457 OFFCURVE",
-"69 398 OFFCURVE",
-"127 429 CURVE SMOOTH"
+"258 560 LINE",
+"108 487 LINE SMOOTH",
+"85 476 OFFCURVE",
+"74 464 OFFCURVE",
+"74 448 CURVE SMOOTH",
+"74 424 OFFCURVE",
+"98 412 OFFCURVE",
+"135 432 CURVE SMOOTH"
 );
 }
 );
