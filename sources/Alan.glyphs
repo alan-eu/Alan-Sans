@@ -23,15 +23,10 @@ value = 1;
 name = fsType;
 value = (
 );
-},
-{
-name = glyphOrder;
-value = (
-);
 }
 );
 date = "2021-08-11 14:50:01 +0000";
-familyName = "Antique Extended";
+familyName = Alan;
 featurePrefixes = (
 {
 automatic = 1;
@@ -8967,7 +8962,7 @@ color = 6;
 glyphname = W;
 kernLeft = KO_W;
 kernRight = KO_W;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 10:11:16 +0000";
 layers = (
 {
 anchors = (
@@ -8977,7 +8972,7 @@ pos = (438,0);
 },
 {
 name = top;
-pos = (438,526);
+pos = (438,680);
 }
 );
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -9035,7 +9030,7 @@ pos = (508,0);
 },
 {
 name = top;
-pos = (508,582);
+pos = (508,680);
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
@@ -9145,7 +9140,7 @@ color = 10;
 glyphname = Wacute;
 kernLeft = KO_W;
 kernRight = KO_W;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 10:11:16 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -9154,7 +9149,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (335,26);
+pos = (335,180);
 ref = acutecomb.case;
 }
 );
@@ -9167,7 +9162,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (368,82);
+pos = (368,180);
 ref = acutecomb.case;
 }
 );
@@ -9181,7 +9176,7 @@ color = 10;
 glyphname = Wcircumflex;
 kernLeft = KO_W;
 kernRight = KO_W;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 10:11:16 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -9190,7 +9185,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (270,26);
+pos = (270,180);
 ref = circumflexcomb.case;
 }
 );
@@ -9203,7 +9198,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (284,82);
+pos = (284,180);
 ref = circumflexcomb.case;
 }
 );
@@ -9217,7 +9212,7 @@ color = 10;
 glyphname = Wdieresis;
 kernLeft = KO_W;
 kernRight = KO_W;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 10:11:16 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -9226,7 +9221,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (258,26);
+pos = (258,180);
 ref = dieresiscomb.case;
 }
 );
@@ -9239,7 +9234,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (284,82);
+pos = (284,180);
 ref = dieresiscomb.case;
 }
 );
@@ -9253,7 +9248,7 @@ color = 10;
 glyphname = Wgrave;
 kernLeft = KO_W;
 kernRight = KO_W;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 10:11:16 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -9262,7 +9257,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (256,26);
+pos = (256,180);
 ref = gravecomb.case;
 }
 );
@@ -9275,7 +9270,7 @@ shapes = (
 ref = W;
 },
 {
-pos = (279,82);
+pos = (279,180);
 ref = gravecomb.case;
 }
 );
@@ -60588,6 +60583,15 @@ type = "italic angle";
 );
 properties = (
 {
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2025 The Alan Project Authors (https://github.com/alan-eu/Glyphs-files)";
+}
+);
+},
+{
 key = designers;
 values = (
 {
@@ -60601,8 +60605,30 @@ key = designerURL;
 value = "https://raphaelronot.com/";
 },
 {
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
+}
+);
+},
+{
 key = licenseURL;
 value = "https://openfontlicense.org/";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = Alan;
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://alan.com/";
 }
 );
 stems = (
