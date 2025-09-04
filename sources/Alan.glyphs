@@ -2,7 +2,7 @@
 .appVersion = "3420";
 DisplayStrings = (
 "Underplant/space Urtication/space Tetrachotomous/space Waxed/space Felled/space Rousted/space Bustards/space Realpolitik/space Cartonages/space Retrocognition/space Gromet/space Agents/space Estoril/space Aspirator/space Taunter/space Unsophisticate/space Tartine/space Ironmongery/space Parodying/space Depletes/space Tyrannising/space Unsoundness/space Mess-Jacket/space Malakatoone/space Platformed/space Sycophantizes/space Untenting/space Rousant/space Superjet/space Comfiest/space Crossbower/space White-Head/space Disinfects/space Superglue/space Panims/space Unconsecrated/space Tracer/space Tattooer/space Heterochronic/space Sutras/space Catmint/space Unsteel/space Messrs/space Cheeper/space Tigon/space Ennobles/space Narrowly/space Cladode/space Maeve/space Smugged/space Draw-String/space Laundering/space Philately/space Suboctuple/space Tiler/space Seborrhoea/space Loxodromics/space Granitisation/space Shula/space Geodetically/space Torch-Bearer/space Waltzed/space Xanthochroic/space Discomycete/space Home-Brew/space Thridace/space Osculatory/space Katharina/space Noviciates/space Clangouring",
-"}",
+"©",
 "/zero.osf/one.osf/two.osf/three.osf/four.osf/five.osf/six.osf/seven.osf/eight.osf/nine.osf"
 );
 classes = (
@@ -35089,7 +35089,7 @@ R = symbols;
 {
 color = 3;
 glyphname = copyright;
-lastChange = "2025-09-04 08:58:44 +0000";
+lastChange = "2025-09-04 09:52:35 +0000";
 layers = (
 {
 components = (
@@ -35142,6 +35142,52 @@ name = _circle;
 }
 );
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
+paths = (
+{
+closed = 1;
+nodes = (
+"476 108 OFFCURVE",
+"531 124 OFFCURVE",
+"572 144 CURVE",
+"572 300 LINE",
+"529 287 OFFCURVE",
+"486 278 OFFCURVE",
+"446 278 CURVE SMOOTH",
+"386 278 OFFCURVE",
+"355 298 OFFCURVE",
+"355 351 CURVE SMOOTH",
+"355 381 OFFCURVE",
+"366 402 OFFCURVE",
+"393 402 CURVE SMOOTH",
+"431 402 OFFCURVE",
+"431 360 OFFCURVE",
+"498 360 CURVE SMOOTH",
+"549 360 OFFCURVE",
+"592 385 OFFCURVE",
+"592 449 CURVE SMOOTH",
+"592 540 OFFCURVE",
+"505 572 OFFCURVE",
+"409 572 CURVE SMOOTH",
+"235 572 OFFCURVE",
+"155 467 OFFCURVE",
+"155 335 CURVE SMOOTH",
+"155 201 OFFCURVE",
+"239 108 OFFCURVE",
+"406 108 CURVE SMOOTH"
+);
+}
+);
+width = 780;
+},
+{
+associatedMasterId = "83B83716-1CD1-47ED-B715-8773FED73F88";
+components = (
+{
+name = _circle;
+}
+);
+layerId = "FB4C9612-0FF1-4B6B-9AE5-6B826D997518";
+name = "4 Sep 25 at 11:52";
 paths = (
 {
 closed = 1;
