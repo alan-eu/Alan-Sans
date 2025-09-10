@@ -46,7 +46,7 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 ----
 
 
-# My Font
+# Alan Sans
 
 [![][Fontbakery]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
 [![][Universal]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
@@ -59,16 +59,22 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 [Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FShapingChecks.json
 [Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FUniversal.json
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+Alan Sans is an exercise in style, balancing the utilitarian side of typography with its expressive potential. 
+We wanted a typeface that could remain functional in an interface context for instance, while also standing out more vividly on marketing applications. 
+The result is a playful sans-serif, built on a traditional “grotesque” skeleton, but reinterpreted with a softer, more flexible visual treatment. 
+This tension between simplicity and expressiveness is also reflected in the weight progression of Alan Sans’s seven styles: the bolder you go, the more personality the typeface reveals.
+In short, Alan Sans is a reflection of our brand’s dual nature. It aims to be robust *yet* gentle, serious *yet* personable, simple *yet* sophisticated, transparent *yet* noticeable. 
+It’s our “not so corporate” typeface. 
 
-Don't hesitate to create images!
 
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
 
-## About
+## About Alan
 
-Description of you and/or organisation goes here.
+Alan is one of Europe’s leading health startups, offering prevention, health insurance, and care services to over 800,000 members (Sept 2025). We offer an all-in-one solution for your physical and mental health, designed to make life easier: customer support available 7 days a week, access to doctors on the platform, and fast, reliable reimbursements.
+
+Alan operates in France, Spain, Belgium, and Canada, serving more than 33,000 companies and 20,000 self-employed professionals. 
 
 ## Building
 
