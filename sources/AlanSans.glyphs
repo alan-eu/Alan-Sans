@@ -2,12 +2,6 @@
 .appVersion = "3343";
 .formatVersion = 3;
 DisplayStrings = (
-"/_asteriskpart *﴾    ﴿",
-"٥o۵",
-"٤",
-"/lam_alef-ar/lam_alef-ar.ss06 م",
-"/yehbarree-ar.fina/yehbarree-ar.fina",
-"/hehgoal-ar.medi  /hehgoal-ar.medi",
 "ه",
 "/heh-ar.fina",
 "/dal-ar.ss06/kaf-ar.init ک",
@@ -21,7 +15,9 @@ DisplayStrings = (
 "/noonghunna-ar.bowl/noonghunna-ar.fina س/seen-ar.init/seen-ar.fina ص",
 "/dal-ar.ss06",
 "ٓآ/alefMadda-ar.fina",
-"/behDotless-ar.fina/kaf-ar.fina/lam-ar.fina/noonghunna-ar.fina/reh-ar.fina"
+"/behDotless-ar.fina/kaf-ar.fina/lam-ar.fina/noonghunna-ar.fina/reh-ar.fina",
+"٩",
+"گ/gaf-ar.fina/gafsarkashabove-ar/gaf-ar.medi/gaf-ar.init"
 );
 axes = (
 {
@@ -204,8 +200,9 @@ language URD;
 lookup locl_arab_0 {
 	sub fourFarsi-ar by fourFarsi-ar.urdu;
 	sub sixFarsi-ar by six-ar;
-	sub seven-persian by sevenFarsi-ar.urdu;
-} locl_arab_0;";
+	sub sevenFarsi-ar by sevenFarsi-ar.urdu;
+} locl_arab_0;
+";
 tag = locl;
 },
 {
@@ -662,11 +659,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 952;
+value = 1229;
 },
 {
 name = winDescent;
-value = 212;
+value = 587;
 },
 {
 name = "Axis Location";
@@ -882,11 +879,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 952;
+value = 1229;
 },
 {
 name = winDescent;
-value = 212;
+value = 587;
 },
 {
 name = "Axis Location";
@@ -52097,7 +52094,7 @@ unicode = 1563;
 glyphname = "question-ar";
 kernLeft = "question-ar";
 kernRight = "question-ar";
-lastChange = "2026-06-18 13:00:13 +0000";
+lastChange = "2026-06-18 13:29:46 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
@@ -52160,6 +52157,9 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(262,242,o),
+(334,242,o),
+(396,222,c),
 (449,436,o),
 (256,421,o),
 (256,479,cs),
@@ -52183,10 +52183,7 @@ nodes = (
 (10,482,cs),
 (10,303,o),
 (197,349,o),
-(200,222,c),
-(262,242,o),
-(334,242,o),
-(396,222,c)
+(200,222,c)
 );
 },
 {
@@ -59777,7 +59774,7 @@ width = 300;
 },
 {
 glyphname = "gafsarkashabove-ar";
-lastChange = "2026-06-18 13:00:13 +0000";
+lastChange = "2026-06-18 13:15:50 +0000";
 layers = (
 {
 anchors = (
@@ -59819,19 +59816,32 @@ name = top;
 pos = (291,945);
 }
 );
+background = {
+shapes = (
+{
+closed = 0;
+nodes = (
+(561,787,l),
+(360,787,o),
+(159,727,o),
+(20,627,c)
+);
+}
+);
+};
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
 shapes = (
 {
 closed = 1;
 nodes = (
-(154,726,o),
-(354,788,o),
-(561,788,c),
-(561,905,l),
-(358,905,o),
-(157,845,o),
-(20,745,c),
-(20,620,l)
+(152,723,o),
+(347,778,o),
+(561,778,c),
+(561,895,l),
+(351,895,o),
+(153,839,o),
+(20,725,c),
+(20,607,l)
 );
 }
 );
