@@ -26,8 +26,11 @@ The proof files and QA tests are also available automatically via GitHub Actions
 
 ## Changelog
 
-**September 16, 2025 - V1**
+**September 16, 2025 — V1**
 - First release
+
+**June 22, 2026 — Arabic**
+- Script extension done by [Samar Zureik]([url](https://samarzureik.com/))
 
 ## License
 
