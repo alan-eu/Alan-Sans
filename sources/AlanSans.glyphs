@@ -1,11 +1,12 @@
 {
-.appVersion = "3343";
+.appVersion = "3436";
 .formatVersion = 3;
 DisplayStrings = (
 "/qafDotless-ar.fina",
 "ٯ",
 "ء",
-"ص"
+"ص",
+"ԱՍ"
 );
 axes = (
 {
@@ -43784,15 +43785,25 @@ width = 765;
 {
 export = 0;
 glyphname = "Ayb-arm";
-lastChange = "2026-04-23 15:52:52 +0000";
+lastChange = "2026-06-22 10:39:05 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
-width = 600;
+shapes = (
+{
+ref = U;
+}
+);
+width = 744;
 },
 {
 layerId = "83B83716-1CD1-47ED-B715-8773FED73F88";
-width = 600;
+shapes = (
+{
+ref = U;
+}
+);
+width = 708;
 }
 );
 unicode = 1329;
@@ -44288,7 +44299,7 @@ unicode = 1356;
 {
 export = 0;
 glyphname = "Seh-arm";
-lastChange = "2026-04-23 15:52:52 +0000";
+lastChange = "2026-06-22 10:39:03 +0000";
 layers = (
 {
 layerId = "D8D2F0D2-8948-448B-99CD-378CDFD0E0AE";
