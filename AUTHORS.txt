@@ -3,5 +3,7 @@
 # See the latter for an explanation.
 #
 # Names should be added to this file as:
+
+Arabic Design Samar Zureik
 # Name or Organization <email address>
 
