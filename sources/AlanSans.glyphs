@@ -11,6 +11,9 @@ HOՓՔՕՖ
 "ԱԲԳԴԵԶԷԸԹԺԻԼԽOԾԿԽ7ՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐzՑՒՓՔՕՖաբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆ/yi-arm.alt",
 "ԹՐ",
 "alan et mbappe
+font de la de pub
+
+alan et mbappe
 font de la de pub"
 );
 axes = (
@@ -1081,7 +1084,7 @@ over = -12;
 },
 {
 over = -12;
-pos = -140;
+pos = -100;
 },
 {
 },
@@ -21826,7 +21829,7 @@ color = 3;
 glyphname = p;
 kernLeft = KO_n;
 kernRight = KO_p;
-lastChange = "2026-07-31 12:09:15 +0000";
+lastChange = "2026-07-31 12:11:04 +0000";
 layers = (
 {
 background = {
@@ -22156,10 +22159,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(238,-200,l),
+(238,-100,l),
 (238,540,l),
 (12,540,l),
-(12,-200,l)
+(12,-100,l)
 );
 },
 {
