@@ -8,14 +8,7 @@ DisplayStrings = (
 7ՀՁՂՃՄ32ՅՆՉՇUՈrsՉHՊՋՌՍՎՏՐՑՒ
 HOՓՔՕՖ
 աբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆȷj/yi-arm.alt և",
-"ԱԲԳԴԵԶԷԸԹԺԻԼԽOԾԿԽ7ՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐzՑՒՓՔՕՖաբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆ/yi-arm.alt",
-"Château d’Yquem
-Gevrey Chambertin
-Romanée Conti
-Mouton Rotschild
-Chevwal Blanc
-Léoville Las Cases 
-Louis Roederer"
+"ԱԲԳԴԵԶԷԸԹԺԻԼԽOԾԿԽ7ՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐzՑՒՓՔՕՖաբգդեզէըթժիլխծկհձղճմյնշոչպջռսվտրցւփքօֆ/yi-arm.alt"
 );
 axes = (
 {
@@ -1998,7 +1991,7 @@ color = 6;
 glyphname = C;
 kernLeft = KO_O;
 kernRight = KO_C;
-lastChange = "2026-08-04 09:18:53 +0000";
+lastChange = "2026-08-05 16:13:35 +0000";
 layers = (
 {
 anchors = (
@@ -2284,14 +2277,14 @@ nodes = (
 (258,296,cs),
 (258,369,o),
 (283,404,o),
-(320,404,cs),
-(369,404,o),
-(368,344,o),
-(449,344,cs),
-(516,344,o),
-(560,385,o),
-(560,462,cs),
-(560,592,o),
+(316,404,cs),
+(359,404,o),
+(360,344,o),
+(441,344,cs),
+(508,344,o),
+(552,385,o),
+(552,463,cs),
+(552,592,o),
 (436,634,o),
 (319,634,cs),
 (93,634,o),
@@ -2303,7 +2296,7 @@ nodes = (
 );
 }
 );
-width = 560;
+width = 554;
 }
 );
 metricLeft = "=O";
@@ -13485,7 +13478,7 @@ color = 6;
 glyphname = a;
 kernLeft = KO_a;
 kernRight = KO_a;
-lastChange = "2026-08-05 11:51:34 +0000";
+lastChange = "2026-08-05 16:11:43 +0000";
 layers = (
 {
 anchors = (
@@ -17381,7 +17374,7 @@ color = 6;
 glyphname = e;
 kernLeft = KO_e;
 kernRight = KO_e;
-lastChange = "2026-08-05 11:32:13 +0000";
+lastChange = "2026-08-05 16:12:40 +0000";
 layers = (
 {
 anchors = (
@@ -24153,7 +24146,7 @@ color = 6;
 glyphname = r;
 kernLeft = KO_n;
 kernRight = KO_r;
-lastChange = "2026-08-05 11:51:02 +0000";
+lastChange = "2026-08-05 16:12:15 +0000";
 layers = (
 {
 anchors = (
@@ -24400,13 +24393,13 @@ nodes = (
 (341,231,cs),
 (387,231,o),
 (430,268,o),
-(430,385,cs),
+(430,388,cs),
 (430,508,o),
-(383,545,o),
-(343,545,cs),
-(296,545,o),
-(263,494,o),
-(252,387,c),
+(388,545,o),
+(350,545,cs),
+(306,545,o),
+(276,494,o),
+(255,377,c),
 (260,168,l)
 );
 }
@@ -97941,6 +97934,9 @@ three.ss03 = -9;
 "@MMK_L_KO_L" = {
 "@MMK_R_KO_e" = -20;
 };
+"@MMK_L_KO_V" = {
+"@MMK_R_KO_e" = -75;
+};
 "@MMK_L_KO_Y" = {
 "@MMK_R_KO_d" = -100;
 };
@@ -97968,6 +97964,7 @@ three.ss03 = -9;
 "@MMK_R_KO_i" = 10;
 };
 "@MMK_L_KO_y" = {
+"@MMK_R_KO_a" = -25;
 "@MMK_R_KO_e" = -55;
 };
 };
