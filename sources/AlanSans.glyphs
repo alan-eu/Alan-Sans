@@ -21,7 +21,8 @@ santé maladie
 "/i.ss10",
 "Castle/semicolon.ss10  Risk/comma.ss10  Santé ",
 "/circumflexcomb.ss10/acircumflex.ss10",
-"/circumflexcomb.ss10/ycircumflex.ss10"
+"/circumflexcomb.ss10/ycircumflex.ss10",
+"/marmot.liga i"
 );
 axes = (
 {
@@ -88309,9 +88310,8 @@ R = NoKerning;
 },
 {
 color = 2;
-export = 0;
 glyphname = dotaccentcomb.ss10;
-lastChange = "2026-08-07 16:29:30 +0000";
+lastChange = "2026-08-10 10:10:57 +0000";
 layers = (
 {
 anchors = (
